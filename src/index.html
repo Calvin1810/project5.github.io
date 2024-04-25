@@ -27,24 +27,36 @@
             font-size: 24px;
             font-weight: 700;
         }
+        .nav-links a {
+            color: #fff;
+            text-decoration: none;
+            padding: 0 10px;
+        }
         .main-container {
+            display: flex;
+            justify-content: space-between;
             width: 80%;
             margin: auto;
-            padding: 40px;
-            max-width: 1200px;
-        }
-        .flex-container {
-            display: flex;
-            flex-direction: row;
-            justify-content: space-between;
-            margin-top: 20px;
+            padding-top: 20px;
         }
         .content {
-            width: 60%;
+            flex: 3;
             padding-right: 20px;
         }
-        .iframe-container {
-            width: 38%;
+        .sidebar {
+            flex: 1;
+            padding: 20px;
+            border-left: 1px solid #ccc;
+        }
+        .sidebar h3 {
+            margin-top: 0;
+        }
+        .sidebar ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .sidebar ul li {
+            padding: 8px 0;
         }
         iframe {
             width: 100%;
@@ -87,38 +99,44 @@
 <body>
     <div class="header">
         <div class="logo">The Global Times</div>
-        <nav>
-            <a href="#">Home</a> |
-            <a href="#">World</a> |
-            <a href="#">Politics</a> |
-            <a href="#">Business</a> |
+        <nav class="nav-links">
+            <a href="#">Home</a>
+            <a href="#">World</a>
+            <a href="#">Politics</a>
+            <a href="#">Business</a>
             <a href="#">Opinion</a>
         </nav>
     </div>
     <div class="main-container">
-        <h1>Global Arms Trades (1950-2023)</h1>
-        <h3>by Calvin Lu</h3>
-        <h3>Interactive data visualization of international arms sales.</h3>
-        <div class="flex-container">
-            <div class="content">
-                <p>
-                    This project presents a visualization of international arms deals spanning from 1950 to 2023, offering an immersive exploration into the global dynamics of military trade. International arms deals play a crucial role in influencing geopolitical landscapes, acting as a catalyst and a consequence of international conflicts. By providing or withholding military support, countries wield significant influence over regional and global stability.
-                </p>
-                <p>
-                    The influence of politics on arms trades may be stronger during periods of conflict, where the category and volume of arms supplied may impact the duration, intensity, and outcome of wars. Political affiliations and ideologies often dictate arms deals and impact broader international norms and treaties. Understanding arms deals in the context of conflict and politics is crucial for understanding its impact on international relations.
-                </p>
-                <p><b>I hypothesize that international arms deals will be more frequent to countries currently in conflict.</b></p>
-                <p>
-                    The data driving the visualizations are sourced from the Stockholm International Peace Research Institute (SIPRI Arms Transfer database annual military arms transfers and the Correlates of War interstate conflict database.
-                </p>
-            </div>
-            <div class="iframe-container">
-                <iframe src="https://observablehq.com/embed/@calvin-lu-ws/project4@1653?cells=viewof+helper_regions%2Cviewof+types_select%2Cviewof+year%2Cworld_plot%2Cpresidency_plot"></iframe>
-            </div>
+        <div class="content">
+            <h1>Global Arms Trades (1950-2023)</h1>
+            <h3>by Calvin Lu</h3>
+            <h3>Interactive data visualization of international arms sales.</h3>
+            <p>
+                This project presents a visualization of international arms deals spanning from 1950 to 2023, offering an immersive exploration into the global dynamics of military trade. International arms deals play a crucial role in influencing geopolitical landscapes, acting as a catalyst and a consequence of international conflicts. By providing or withholding military support, countries wield significant influence over regional and global stability.
+            </p>
+            <p>
+                The influence of politics on arms trades may be stronger during periods of conflict, where the category and volume of arms supplied may impact the duration, intensity, and outcome of wars. Political affiliations and ideologies often dictate arms deals and impact broader international norms and treaties. Understanding arms deals in the context of conflict and politics is crucial for understanding its impact on international relations.
+            </p>
+            <p><b>I hypothesize that international arms deals will be more frequent to countries currently in conflict.</b></p>
+            <p>
+                The data driving the visualizations are sourced from the Stockholm International Peace Research Institute (SIPRI Arms Transfer database annual military arms transfers and the Correlates of War interstate conflict database.
+            </p>
+            <br>
+            <iframe src="https://observablehq.com/embed/@calvin-lu-ws/project4@1653?cells=viewof+helper_regions%2Cviewof+types_select%2Cviewof+year%2Cworld_plot%2Cpresidency_plot"></iframe>
         </div>
-        <div class="footer">
-            <h2>One Corps, Our Corps!</h2>
+        <div class="sidebar">
+            <h3>More Topics</h3>
+            <ul>
+                <li><a href="#">Recent Developments</a></li>
+                <li><a href="#">Historical Analysis</a></li>
+                <li><a href="#">Expert Opinions</a></li>
+                <li><a href="#">Data Insights</a></li>
+            </ul>
         </div>
+    </div>
+    <div class="footer">
+        <h2>One Corps, Our Corps!</h2>
     </div>
 </body>
 </html>
