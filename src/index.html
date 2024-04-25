@@ -9,102 +9,91 @@
             margin: 0;
             padding: 0;
             box-sizing: border-box;
-            font-size: 18px; /* Default text size */
-            line-height: 1.6; /* Increase line spacing */
-            display: flex;
-            flex-direction: column;
-            align-items: center;
+            font-family: 'nyt-franklin', Arial, sans-serif; /* NYT Font */
+            background-color: #fff; /* White background */
+            color: #333; /* Dark grey text */
         }
         .main-container {
-            padding: 40px; /* Adjust padding as needed */
-            max-width: 1500px; /* Maximum width of the content */
-            width: 100%; /* Make it responsive */
-            box-sizing: border-box;
-            border: 10in;
+            width: 80%;
+            margin: auto;
+            padding: 40px;
+            max-width: 1200px;
         }
         .flex-container {
             display: flex;
             flex-direction: row;
             justify-content: space-between;
-            align-items: flex-start;
+            margin-top: 20px;
         }
-        .content, .iframe-container {
-            flex: 1; /* Adjust the width as necessary */
+        .content {
+            width: 60%; /* Main content width */
+            padding-right: 20px;
+        }
+        .iframe-container {
+            width: 38%; /* Sidebar width */
         }
         iframe {
             width: 100%;
-            height: 1000px; /* Adjust the height as necessary */
+            height: 600px; /* Adjusted height */
             border: none;
         }
+        h1, h2, h3, h4, p {
+            margin: 0 0 10px 0; /* Adjusted spacing */
+            font-weight: normal; /* Default font weight */
+        }
         h1 {
-            font-size: 40px;
-            text-align: center;
-            line-height: 1.4; /* Custom line spacing for h1 */
-            font-family:'Trebuchet MS';
+            font-size: 24px; /* Larger title */
+            margin-bottom: 20px;
         }
         h2 {
-            font-size: 28px;
-            text-align: center;
-            line-height: 1.4; /* Custom line spacing for h2 */
-            font-family:'Trebuchet MS';
+            font-size: 20px; /* Subtitle size */
         }
         h3 {
-            font-size: 24px;
-            text-align: center;
-            line-height: 0.1; /* Custom line spacing for h3 */
-            font-family:'Trebuchet MS';
+            font-size: 16px; /* Section heading size */
         }
-        h4, p {
-            font-size: 20px;
-            text-align: left;
-            line-height: 2; /* Increased line spacing */
-            font-family:'Trebuchet MS';
+        p {
+            line-height: 1.5; /* Line spacing */
+            font-size: 14px; /* Paragraph text size */
+        }
+        a {
+            color: #326891; /* NYT link color */
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
         }
         .footer {
             text-align: center;
-            margin-top: 20px;
-            width: 100%;
+            padding: 20px 0;
+            font-size: 14px;
         }
     </style>
 </head>
-<body style="background-color:rgb(252, 239, 219);">
+<body>
     <div class="main-container">
-      <h1>Global Arms Trades (1950-2023)</h1>
-                <h3>by Calvin Lu</h3>
-                <br>
-                <center><h3>Interactive data visualization of international arms sales.<h3></center>
-                <br>
+        <h1>Global Arms Trades (1950-2023)</h1>
+        <h3>by Calvin Lu</h3>
+        <h3>Interactive data visualization of international arms sales.</h3>
         <div class="flex-container">
             <div class="content">
                 <p>
-                    This project presents a visualization of international arms deals spanning from 1950 to 2023, 
-                    offering an immersive exploration into the global dynamics of military trade. International arms deals play a 
-                    influence geopolitical landscapes, acting as a catalyst and a consequence of international 
-                    conflicts. By providing or withholding military support, countries wield significant influence over regional and global stability. 
+                    This project presents a visualization of international arms deals spanning from 1950 to 2023, offering an immersive exploration into the global dynamics of military trade. International arms deals play a crucial role in influencing geopolitical landscapes, acting as a catalyst and a consequence of international conflicts. By providing or withholding military support, countries wield significant influence over regional and global stability.
                 </p>
-                <br>
-                <p>The influence of politics on arms trades may be stronger during periods of conflict, where the category and volume 
-                    of arms supplied may impact the duration, intensity, and outcome of wars. Political affiliations and ideologies often dictate arms deals and
-                    impact broader international norms and treaties. Understanding arms deals in the context of conflict 
-                    and politics is crucial for understanding its impact on international relations.</p>
-              <br>
-              <p><b>I hypothesize that international arms deals will be more frequent to countries currently in conflict.</b></p>
-              <br>
                 <p>
-              The data driving the visualizations are sourced from the Stockholm International Peace Research Institute 
-              <a href="https://armstransfers.sipri.org/ArmsTransfer/TransferData">SIPRI Arms Transfer</a> database annual military arms transfers and the
-              <a href="https://correlatesofwar.org/data-sets/">Correlates of War</a> interstate conflict database.
+                    The influence of politics on arms trades may be stronger during periods of conflict, where the category and volume of arms supplied may impact the duration, intensity, and outcome of wars. Political affiliations and ideologies often dictate arms deals and impact broader international norms and treaties. Understanding arms deals in the context of conflict and politics is crucial for understanding its impact on international relations.
+                </p>
+                <p><b>I hypothesize that international arms deals will be more frequent to countries currently in conflict.</b></p>
+                <p>
+                    The data driving the visualizations are sourced from the Stockholm International Peace Research Institute (SIPRI Arms Transfer database annual military arms transfers and the Correlates of War interstate conflict database.
                 </p>
             </div>
             <div class="iframe-container">
-                <iframe width="100%" height="2500" frameborder="0"
-                src="https://observablehq.com/embed/@calvin-lu-ws/project4@1653?cells=viewof+helper_regions%2Cviewof+types_select%2Cviewof+year%2Cworld_plot%2Cpresidency_plot"></iframe>
+                <iframe src="https://observablehq.com/embed/@calvin-lu-ws/project4@1653?cells=viewof+helper_regions%2Cviewof+types_select%2Cviewof+year%2Cworld_plot%2Cpresidency_plot"></iframe>
             </div>
         </div>
         <div class="footer">
             <h2>One Corps, Our Corps!</h2>
         </div>
     </div>
-    <script src="index.js"></script>
 </body>
 </html>
