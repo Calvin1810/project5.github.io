@@ -1,0 +1,2247 @@
+State,Year,BotType,ToxinType,Count,Region
+Alaska,1947,Foodborne,Unknown,3,West
+Alaska,1948,Foodborne,Unknown,4,West
+Alaska,1950,Foodborne,E,5,West
+Alaska,1952,Foodborne,E,1,West
+Alaska,1956,Foodborne,E,5,West
+Alaska,1959,Foodborne,E,10,West
+Alaska,1960,Foodborne,E,2,West
+Alaska,1967,Foodborne,E,1,West
+Alaska,1968,Foodborne,Unknown,1,West
+Alaska,1970,Foodborne,E,1,West
+Alaska,1971,Foodborne,E,2,West
+Alaska,1973,Foodborne,B,9,West
+Alaska,1973,Foodborne,Unknown,3,West
+Alaska,1974,Foodborne,A,1,West
+Alaska,1974,Foodborne,B,2,West
+Alaska,1974,Foodborne,E,3,West
+Alaska,1974,Foodborne,Unknown,1,West
+Alaska,1975,Foodborne,A,3,West
+Alaska,1976,Foodborne,A,3,West
+Alaska,1976,Foodborne,B,2,West
+Alaska,1976,Foodborne,E,9,West
+Alaska,1977,Foodborne,A,2,West
+Alaska,1977,Foodborne,B,2,West
+Alaska,1977,Foodborne,E,7,West
+Alaska,1979,Foodborne,E,3,West
+Alaska,1980,Foodborne,E,2,West
+Alaska,1981,Foodborne,E,9,West
+Alaska,1982,Foodborne,A,3,West
+Alaska,1982,Infant,A,1,West
+Alaska,1983,Foodborne,B,1,West
+Alaska,1983,Foodborne,E,1,West
+Alaska,1984,Foodborne,B,1,West
+Alaska,1984,Foodborne,E,4,West
+Alaska,1984,Foodborne,F,1,West
+Alaska,1985,Foodborne,B,4,West
+Alaska,1985,Foodborne,E,14,West
+Alaska,1986,Foodborne,E,8,West
+Alaska,1987,Foodborne,E,1,West
+Alaska,1987,Infant,B,1,West
+Alaska,1988,Foodborne,B,2,West
+Alaska,1988,Foodborne,E,30,West
+Alaska,1989,Foodborne,E,5,West
+Alaska,1990,Foodborne,E,8,West
+Alaska,1991,Foodborne,E,20,West
+Alaska,1991,Infant,B,1,West
+Alaska,1992,Foodborne,B,1,West
+Alaska,1992,Foodborne,E,7,West
+Alaska,1992,Infant,A,1,West
+Alaska,1993,Foodborne,A,1,West
+Alaska,1993,Foodborne,B,1,West
+Alaska,1993,Foodborne,E,2,West
+Alaska,1993,Infant,A,1,West
+Alaska,1994,Foodborne,B,2,West
+Alaska,1994,Foodborne,E,9,West
+Alaska,1995,Foodborne,B,2,West
+Alaska,1995,Foodborne,E,2,West
+Alaska,1996,Foodborne,B,1,West
+Alaska,1996,Foodborne,E,8,West
+Alaska,1996,Foodborne,Unknown,1,West
+Alaska,1997,Foodborne,B,1,West
+Alaska,1997,Foodborne,E,14,West
+Alaska,1998,Foodborne,E,9,West
+Alaska,1999,Foodborne,E,12,West
+Alaska,1999,Infant,A,1,West
+Alaska,2001,Foodborne,B,1,West
+Alaska,2001,Foodborne,E,8,West
+Alaska,2002,Foodborne,E,14,West
+Alaska,2003,Foodborne,E,2,West
+Alaska,2004,Foodborne,E,1,West
+Alaska,2005,Foodborne,E,8,West
+Alaska,2006,Foodborne,E,1,West
+Alaska,2006,Foodborne,Unknown,5,West
+Alaska,2007,Foodborne,B,3,West
+Alaska,2007,Foodborne,E,7,West
+Alaska,2008,Foodborne,E,6,West
+Alaska,2008,Foodborne,Unknown,2,West
+Alaska,2009,Infant,A,1,West
+Alaska,2010,Foodborne,B,2,West
+Alaska,2010,Foodborne,E,2,West
+Alaska,2010,Foodborne,Unknown,1,West
+Alaska,2011,Foodborne,E,5,West
+Alaska,2012,Foodborne,E,3,West
+Alaska,2013,Foodborne,E,1,West
+Alaska,2014,Foodborne,E,7,West
+Alaska,2015,Foodborne,E,5,West
+Alaska,2015,Infant,A,1,West
+Alaska,2016,Foodborne,E,2,West
+Alaska,2017,Foodborne,E,4,West
+Alabama,1928,Foodborne,A,3,South
+Alabama,1942,Foodborne,Unknown,1,South
+Alabama,1962,Foodborne,Unknown,1,South
+Alabama,1963,Foodborne,E,3,South
+Alabama,1964,Foodborne,Unknown,1,South
+Alabama,1965,Foodborne,Unknown,2,South
+Alabama,1974,Foodborne,B,1,South
+Alabama,1989,Infant,A,1,South
+Alabama,1994,Infant,B,1,South
+Alabama,2000,Infant,A,2,South
+Alabama,2000,Infant,B,1,South
+Alabama,2005,Infant,B,1,South
+Alabama,2009,Infant,B,2,South
+Alabama,2015,Infant,B,1,South
+Alabama,2016,Infant,A,1,South
+Arkansas,1939,Foodborne,Unknown,2,South
+Arkansas,1961,Foodborne,Unknown,1,South
+Arkansas,1978,Infant,A,1,South
+Arkansas,1979,Infant,B,1,South
+Arkansas,1984,Infant,B,1,South
+Arkansas,1986,Foodborne,A,3,South
+Arkansas,1986,Wound,A,1,South
+Arkansas,1987,Infant,B,2,South
+Arkansas,1988,Infant,B,1,South
+Arkansas,1990,Infant,B,1,South
+Arkansas,1997,Infant,B,1,South
+Arkansas,2000,Foodborne,A,2,South
+Arkansas,2000,Infant,B,1,South
+Arkansas,2001,Foodborne,A,1,South
+Arkansas,2007,Infant,A,2,South
+Arkansas,2009,Infant,A,1,South
+Arkansas,2009,Infant,B,2,South
+Arkansas,2010,Wound,Unknown,1,South
+Arkansas,2012,Infant,B,1,South
+Arkansas,2013,Infant,B,1,South
+Arkansas,2014,Infant,A,1,South
+Arkansas,2016,Infant,B,1,South
+Arkansas,2017,Infant,B,2,South
+Arizona,1920,Foodborne,B,5,West
+Arizona,1945,Foodborne,A,4,West
+Arizona,1951,Foodborne,Unknown,1,West
+Arizona,1955,Foodborne,Unknown,1,West
+Arizona,1977,Infant,B,1,West
+Arizona,1978,Infant,A,1,West
+Arizona,1978,Infant,B,2,West
+Arizona,1980,Infant,A,1,West
+Arizona,1980,Infant,B,1,West
+Arizona,1981,Infant,A,1,West
+Arizona,1981,Infant,B,1,West
+Arizona,1982,Foodborne,A,3,West
+Arizona,1983,Foodborne,A,1,West
+Arizona,1985,Infant,B,2,West
+Arizona,1986,Infant,A,1,West
+Arizona,1986,Infant,B,2,West
+Arizona,1987,Infant,B,2,West
+Arizona,1988,Infant,B,1,West
+Arizona,1989,Infant,A,1,West
+Arizona,1989,Infant,B,1,West
+Arizona,1989,Wound,A,1,West
+Arizona,1990,Infant,B,1,West
+Arizona,1991,Infant,B,4,West
+Arizona,1992,Infant,A,2,West
+Arizona,1995,Foodborne,A,1,West
+Arizona,1995,Infant,A,1,West
+Arizona,1995,Wound,A,1,West
+Arizona,1997,Infant,A,1,West
+Arizona,1997,Infant,B,1,West
+Arizona,1997,Wound,A,1,West
+Arizona,1998,Infant,B,1,West
+Arizona,2000,Infant,B,1,West
+Arizona,2001,Foodborne,A,1,West
+Arizona,2001,Infant,A,2,West
+Arizona,2002,Infant,A,2,West
+Arizona,2002,Infant,B,1,West
+Arizona,2004,Infant,B,1,West
+Arizona,2005,Infant,A,1,West
+Arizona,2006,Infant,B,4,West
+Arizona,2006,Infant,E,1,West
+Arizona,2007,Infant,B,1,West
+Arizona,2008,Foodborne,A,1,West
+Arizona,2008,Infant,B,2,West
+Arizona,2009,Infant,A,2,West
+Arizona,2009,Infant,B,1,West
+Arizona,2011,Foodborne,A,1,West
+Arizona,2011,Infant,B,3,West
+Arizona,2011,Other,A,1,West
+Arizona,2012,Foodborne,A,12,West
+Arizona,2012,Infant,B,2,West
+Arizona,2013,Infant,B,1,West
+Arizona,2014,Foodborne,B,1,West
+Arizona,2014,Infant,A,1,West
+Arizona,2015,Infant,B,2,West
+Arizona,2015,Wound,A,1,West
+Arizona,2016,Infant,B,3,West
+Arizona,2016,Wound,A,1,West
+Arizona,2017,Infant,A,2,West
+Arizona,2017,Infant,B,3,West
+Arizona,2017,Wound,A,1,West
+California,1899,Foodborne,Unknown,1,West
+California,1902,Foodborne,Unknown,7,West
+California,1906,Foodborne,Unknown,3,West
+California,1910,Foodborne,Unknown,16,West
+California,1911,Foodborne,Unknown,1,West
+California,1912,Foodborne,Unknown,16,West
+California,1913,Foodborne,Unknown,16,West
+California,1914,Foodborne,Unknown,2,West
+California,1915,Foodborne,Unknown,8,West
+California,1916,Foodborne,A,1,West
+California,1916,Foodborne,Unknown,2,West
+California,1917,Foodborne,Unknown,10,West
+California,1918,Foodborne,A,8,West
+California,1918,Foodborne,Unknown,11,West
+California,1919,Foodborne,A,4,West
+California,1919,Foodborne,Unknown,10,West
+California,1920,Foodborne,A,11,West
+California,1920,Foodborne,Unknown,4,West
+California,1920,Other,Unknown,1,West
+California,1921,Foodborne,A,2,West
+California,1921,Foodborne,B,1,West
+California,1922,Foodborne,A,12,West
+California,1922,Foodborne,Unknown,5,West
+California,1923,Foodborne,A,1,West
+California,1923,Foodborne,Unknown,9,West
+California,1924,Foodborne,A,9,West
+California,1924,Foodborne,A&B,1,West
+California,1924,Foodborne,Unknown,10,West
+California,1925,Foodborne,A,2,West
+California,1925,Foodborne,B,1,West
+California,1925,Foodborne,Unknown,5,West
+California,1926,Foodborne,Unknown,1,West
+California,1927,Foodborne,A,3,West
+California,1927,Foodborne,Unknown,1,West
+California,1928,Foodborne,A,2,West
+California,1928,Foodborne,Unknown,4,West
+California,1929,Foodborne,A,5,West
+California,1929,Foodborne,Unknown,5,West
+California,1930,Foodborne,B,5,West
+California,1930,Foodborne,Unknown,1,West
+California,1931,Foodborne,A,3,West
+California,1931,Foodborne,A&B,5,West
+California,1931,Foodborne,Unknown,4,West
+California,1932,Foodborne,A,4,West
+California,1932,Foodborne,Unknown,4,West
+California,1933,Foodborne,A,7,West
+California,1933,Foodborne,Unknown,3,West
+California,1934,Foodborne,Unknown,1,West
+California,1935,Foodborne,A,16,West
+California,1935,Foodborne,Unknown,5,West
+California,1936,Foodborne,A,1,West
+California,1936,Foodborne,B,4,West
+California,1936,Foodborne,Unknown,2,West
+California,1937,Foodborne,A,2,West
+California,1937,Foodborne,Unknown,11,West
+California,1938,Foodborne,Unknown,15,West
+California,1939,Foodborne,Unknown,14,West
+California,1940,Foodborne,A,10,West
+California,1940,Foodborne,Unknown,2,West
+California,1941,Foodborne,A,14,West
+California,1941,Foodborne,E,3,West
+California,1942,Foodborne,A,6,West
+California,1942,Foodborne,Unknown,10,West
+California,1943,Foodborne,A,4,West
+California,1943,Foodborne,Unknown,7,West
+California,1944,Foodborne,A,7,West
+California,1944,Foodborne,Unknown,4,West
+California,1945,Foodborne,A,12,West
+California,1945,Foodborne,Unknown,10,West
+California,1946,Foodborne,A,3,West
+California,1946,Foodborne,Unknown,2,West
+California,1947,Foodborne,B,3,West
+California,1947,Foodborne,Unknown,3,West
+California,1948,Foodborne,A,2,West
+California,1948,Foodborne,Unknown,4,West
+California,1949,Foodborne,A,2,West
+California,1950,Foodborne,Unknown,7,West
+California,1951,Foodborne,A,3,West
+California,1951,Foodborne,Unknown,9,West
+California,1951,Wound,A,1,West
+California,1952,Foodborne,A,3,West
+California,1952,Foodborne,Unknown,7,West
+California,1953,Foodborne,A,1,West
+California,1953,Foodborne,B,1,West
+California,1954,Foodborne,A,6,West
+California,1955,Foodborne,B,2,West
+California,1955,Foodborne,Unknown,1,West
+California,1956,Foodborne,A,4,West
+California,1956,Foodborne,Unknown,3,West
+California,1957,Foodborne,A,5,West
+California,1958,Foodborne,Unknown,1,West
+California,1959,Foodborne,A,1,West
+California,1959,Foodborne,Unknown,2,West
+California,1962,Foodborne,Unknown,2,West
+California,1963,Foodborne,A,2,West
+California,1963,Foodborne,Unknown,8,West
+California,1964,Foodborne,Unknown,7,West
+California,1965,Foodborne,A,2,West
+California,1966,Foodborne,F,3,West
+California,1966,Foodborne,Unknown,2,West
+California,1968,Foodborne,A,1,West
+California,1968,Foodborne,Unknown,3,West
+California,1968,Wound,Unknown,1,West
+California,1969,Foodborne,Unknown,2,West
+California,1970,Foodborne,A,2,West
+California,1971,Foodborne,A,5,West
+California,1971,Foodborne,B,2,West
+California,1971,Foodborne,Unknown,4,West
+California,1971,Wound,A,1,West
+California,1972,Foodborne,A,18,West
+California,1973,Foodborne,A,4,West
+California,1974,Foodborne,A,1,West
+California,1974,Foodborne,B,2,West
+California,1974,Wound,B,1,West
+California,1974,Wound,Unknown,1,West
+California,1975,Foodborne,A,5,West
+California,1975,Foodborne,Unknown,1,West
+California,1976,Foodborne,A,6,West
+California,1976,Foodborne,B,2,West
+California,1976,Infant,A,5,West
+California,1976,Infant,B,6,West
+California,1977,Foodborne,A,5,West
+California,1977,Infant,A,18,West
+California,1977,Infant,B,7,West
+California,1978,Foodborne,A,3,West
+California,1978,Infant,A,7,West
+California,1978,Infant,B,6,West
+California,1978,Other,A,2,West
+California,1978,Other,Unknown,4,West
+California,1979,Foodborne,A,1,West
+California,1979,Infant,A,8,West
+California,1979,Infant,B,1,West
+California,1979,Other,A,2,West
+California,1979,Wound,AB,1,West
+California,1980,Foodborne,A,4,West
+California,1980,Infant,A,15,West
+California,1980,Infant,B,15,West
+California,1980,Wound,A,1,West
+California,1981,Foodborne,B,7,West
+California,1981,Infant,A,27,West
+California,1981,Infant,B,13,West
+California,1981,Wound,A,3,West
+California,1982,Foodborne,A,11,West
+California,1982,Infant,A,21,West
+California,1982,Infant,B,8,West
+California,1982,Wound,A,1,West
+California,1983,Foodborne,A,1,West
+California,1983,Infant,A,21,West
+California,1983,Infant,B,13,West
+California,1983,Other,Unknown,1,West
+California,1984,Foodborne,A,7,West
+California,1984,Infant,A,22,West
+California,1984,Infant,B,26,West
+California,1984,Wound,A,1,West
+California,1984,Wound,B,1,West
+California,1985,Foodborne,A,2,West
+California,1985,Infant,A,23,West
+California,1985,Infant,B,20,West
+California,1986,Foodborne,A,3,West
+California,1986,Foodborne,B,2,West
+California,1986,Foodborne,F,1,West
+California,1986,Infant,A,27,West
+California,1986,Infant,B,13,West
+California,1987,Foodborne,A,4,West
+California,1987,Infant,A,25,West
+California,1987,Infant,B,18,West
+California,1987,Wound,A,1,West
+California,1988,Foodborne,A,1,West
+California,1988,Infant,A,19,West
+California,1988,Infant,B,14,West
+California,1988,Wound,A,2,West
+California,1989,Foodborne,A,1,West
+California,1989,Infant,A,18,West
+California,1989,Infant,B,17,West
+California,1989,Wound,A,1,West
+California,1989,Wound,Unknown,1,West
+California,1990,Foodborne,A,3,West
+California,1990,Infant,A,22,West
+California,1990,Infant,B,7,West
+California,1990,Wound,A,3,West
+California,1991,Foodborne,B,1,West
+California,1991,Infant,A,33,West
+California,1991,Infant,B,16,West
+California,1991,Wound,A,2,West
+California,1992,Foodborne,A,2,West
+California,1992,Infant,A,23,West
+California,1992,Infant,B,14,West
+California,1992,Other,A,1,West
+California,1992,Wound,A,3,West
+California,1993,Foodborne,A,1,West
+California,1993,Foodborne,Unknown,2,West
+California,1993,Infant,A,19,West
+California,1993,Infant,B,10,West
+California,1993,Wound,A,3,West
+California,1993,Wound,B,1,West
+California,1994,Foodborne,A,6,West
+California,1994,Infant,A,16,West
+California,1994,Infant,B,15,West
+California,1994,Wound,A,9,West
+California,1994,Wound,B,2,West
+California,1995,Foodborne,A,3,West
+California,1995,Infant,A,24,West
+California,1995,Infant,B,13,West
+California,1995,Wound,A,20,West
+California,1995,Wound,B,2,West
+California,1995,Wound,Unknown,1,West
+California,1996,Foodborne,A,2,West
+California,1996,Foodborne,B,1,West
+California,1996,Infant,A,26,West
+California,1996,Infant,B,9,West
+California,1996,Wound,A,13,West
+California,1996,Wound,B,1,West
+California,1997,Foodborne,A,2,West
+California,1997,Foodborne,E,1,West
+California,1997,Infant,A,22,West
+California,1997,Infant,B,7,West
+California,1997,Wound,A,14,West
+California,1997,Wound,B,3,West
+California,1998,Foodborne,A,5,West
+California,1998,Foodborne,B,1,West
+California,1998,Infant,A,17,West
+California,1998,Infant,B,2,West
+California,1998,Wound,A,27,West
+California,1998,Wound,B,2,West
+California,1999,Foodborne,A,4,West
+California,1999,Infant,A,17,West
+California,1999,Infant,B,9,West
+California,1999,Wound,A,33,West
+California,1999,Wound,B,3,West
+California,1999,Wound,Unknown,1,West
+California,2000,Foodborne,A,3,West
+California,2000,Infant,A,17,West
+California,2000,Infant,B,10,West
+California,2000,Other,A,2,West
+California,2000,Wound,A,13,West
+California,2001,Foodborne,A,1,West
+California,2001,Foodborne,E,2,West
+California,2001,Foodborne,F,1,West
+California,2001,Infant,A,21,West
+California,2001,Infant,B,10,West
+California,2001,Wound,A,19,West
+California,2001,Wound,B,1,West
+California,2002,Infant,A,10,West
+California,2002,Infant,B,11,West
+California,2002,Wound,A,17,West
+California,2002,Wound,B,1,West
+California,2002,Wound,Unknown,1,West
+California,2003,Foodborne,A,1,West
+California,2003,Foodborne,F,1,West
+California,2003,Infant,A,16,West
+California,2003,Infant,B,14,West
+California,2003,Infant,F,1,West
+California,2003,Wound,A,20,West
+California,2003,Wound,Unknown,1,West
+California,2004,Foodborne,A,6,West
+California,2004,Infant,A,22,West
+California,2004,Infant,B,15,West
+California,2004,Wound,A,19,West
+California,2004,Wound,B,1,West
+California,2004,Wound,Unknown,1,West
+California,2005,Foodborne,A,3,West
+California,2005,Infant,A,25,West
+California,2005,Infant,B,17,West
+California,2005,Wound,A,21,West
+California,2005,Wound,B,2,West
+California,2005,Wound,Unknown,1,West
+California,2006,Foodborne,A,6,West
+California,2006,Infant,A,28,West
+California,2006,Infant,B,15,West
+California,2006,Wound,A,40,West
+California,2006,Wound,B,1,West
+California,2007,Foodborne,A,1,West
+California,2007,Infant,A,24,West
+California,2007,Infant,B,12,West
+California,2007,Other,F,1,West
+California,2007,Wound,A,16,West
+California,2007,Wound,AB,1,West
+California,2007,Wound,B,2,West
+California,2007,Wound,Unknown,1,West
+California,2008,Foodborne,A,3,West
+California,2008,Infant,A,25,West
+California,2008,Infant,B,10,West
+California,2008,Wound,A,20,West
+California,2009,Foodborne,A,4,West
+California,2009,Infant,A,9,West
+California,2009,Infant,B,9,West
+California,2009,Infant,Ba,1,West
+California,2009,Infant,Bf,1,West
+California,2009,Wound,A,16,West
+California,2009,Wound,Unknown,2,West
+California,2010,Foodborne,A,1,West
+California,2010,Infant,A,11,West
+California,2010,Infant,B,8,West
+California,2010,Infant,F,1,West
+California,2010,Wound,A,15,West
+California,2010,Wound,B,1,West
+California,2011,Foodborne,A,1,West
+California,2011,Infant,A,19,West
+California,2011,Infant,B,9,West
+California,2011,Infant,Ba,1,West
+California,2011,Other,A,3,West
+California,2011,Wound,A,9,West
+California,2012,Foodborne,B,1,West
+California,2012,Infant,A,24,West
+California,2012,Infant,B,10,West
+California,2012,Infant,Ba,1,West
+California,2012,Infant,Bf,1,West
+California,2012,Other,A,1,West
+California,2012,Other,"E,F",1,West
+California,2012,Wound,A,5,West
+California,2012,Wound,B,1,West
+California,2013,Infant,A,29,West
+California,2013,Infant,B,15,West
+California,2013,Infant,Bf,1,West
+California,2013,Infant,F,1,West
+California,2013,Other,A,1,West
+California,2013,Wound,A,9,West
+California,2013,Wound,ABE,2,West
+California,2014,Infant,A,35,West
+California,2014,Infant,B,14,West
+California,2014,Other,A,1,West
+California,2014,Wound,A,14,West
+California,2014,Wound,ABE,1,West
+California,2015,Infant,A,23,West
+California,2015,Infant,B,14,West
+California,2015,Other,A,2,West
+California,2015,Wound,A,11,West
+California,2016,Foodborne,A,3,West
+California,2016,Infant,A,34,West
+California,2016,Infant,Ab,1,West
+California,2016,Infant,B,11,West
+California,2016,Infant,Bf,1,West
+California,2016,Other,A,1,West
+California,2016,Wound,A,14,West
+California,2016,Wound,B,1,West
+California,2017,Foodborne,A,15,West
+California,2017,Infant,A,27,West
+California,2017,Infant,B,20,West
+California,2017,Infant,Ba,1,West
+California,2017,Other,A,2,West
+California,2017,Other,B,1,West
+California,2017,Wound,A,15,West
+California,2017,Wound,ABE,1,West
+Colorado,1912,Foodborne,Unknown,7,West
+Colorado,1913,Foodborne,Unknown,5,West
+Colorado,1915,Foodborne,Unknown,5,West
+Colorado,1921,Foodborne,Unknown,5,West
+Colorado,1924,Foodborne,A,7,West
+Colorado,1925,Foodborne,B,5,West
+Colorado,1927,Foodborne,Unknown,3,West
+Colorado,1929,Foodborne,A,1,West
+Colorado,1929,Foodborne,Unknown,5,West
+Colorado,1930,Foodborne,Unknown,7,West
+Colorado,1931,Foodborne,A,4,West
+Colorado,1932,Foodborne,A,1,West
+Colorado,1932,Foodborne,Unknown,2,West
+Colorado,1933,Foodborne,Unknown,1,West
+Colorado,1934,Foodborne,Unknown,3,West
+Colorado,1935,Foodborne,A,5,West
+Colorado,1935,Foodborne,Unknown,3,West
+Colorado,1936,Foodborne,Unknown,1,West
+Colorado,1937,Foodborne,A,3,West
+Colorado,1938,Foodborne,Unknown,1,West
+Colorado,1940,Foodborne,Unknown,4,West
+Colorado,1941,Foodborne,Unknown,1,West
+Colorado,1942,Foodborne,Unknown,11,West
+Colorado,1944,Foodborne,Unknown,1,West
+Colorado,1947,Foodborne,Unknown,2,West
+Colorado,1948,Foodborne,A,5,West
+Colorado,1950,Foodborne,Unknown,3,West
+Colorado,1951,Foodborne,Unknown,1,West
+Colorado,1952,Foodborne,Unknown,1,West
+Colorado,1953,Foodborne,Unknown,6,West
+Colorado,1954,Foodborne,Unknown,2,West
+Colorado,1955,Foodborne,A,5,West
+Colorado,1956,Foodborne,Unknown,6,West
+Colorado,1957,Foodborne,Unknown,1,West
+Colorado,1959,Foodborne,A,1,West
+Colorado,1959,Foodborne,Unknown,1,West
+Colorado,1962,Foodborne,Unknown,3,West
+Colorado,1963,Foodborne,A,2,West
+Colorado,1967,Foodborne,Unknown,1,West
+Colorado,1969,Foodborne,A,6,West
+Colorado,1969,Foodborne,B,1,West
+Colorado,1970,Foodborne,A,1,West
+Colorado,1972,Foodborne,A,1,West
+Colorado,1977,Foodborne,A,1,West
+Colorado,1977,Infant,B,1,West
+Colorado,1978,Foodborne,A,8,West
+Colorado,1978,Foodborne,B,1,West
+Colorado,1980,Foodborne,A,1,West
+Colorado,1980,Infant,A,1,West
+Colorado,1981,Foodborne,A,1,West
+Colorado,1981,Infant,A,2,West
+Colorado,1982,Foodborne,A,1,West
+Colorado,1982,Infant,B,1,West
+Colorado,1983,Foodborne,A,2,West
+Colorado,1984,Infant,A,1,West
+Colorado,1986,Infant,A,1,West
+Colorado,1987,Infant,A,1,West
+Colorado,1988,Foodborne,A,1,West
+Colorado,1990,Infant,A,1,West
+Colorado,1991,Infant,A,2,West
+Colorado,1992,Foodborne,A,2,West
+Colorado,1992,Infant,A,1,West
+Colorado,1993,Infant,A,1,West
+Colorado,1994,Infant,A,1,West
+Colorado,1995,Foodborne,A,1,West
+Colorado,1996,Foodborne,A,1,West
+Colorado,1996,Infant,A,2,West
+Colorado,1998,Infant,A,1,West
+Colorado,1999,Infant,A,2,West
+Colorado,1999,Wound,A,1,West
+Colorado,2002,Infant,A,2,West
+Colorado,2002,Infant,B,1,West
+Colorado,2003,Foodborne,A,1,West
+Colorado,2003,Infant,A,1,West
+Colorado,2003,Wound,A,1,West
+Colorado,2005,Infant,A,1,West
+Colorado,2006,Infant,B,1,West
+Colorado,2007,Infant,A,1,West
+Colorado,2007,Infant,B,1,West
+Colorado,2008,Infant,A,2,West
+Colorado,2008,Infant,F,1,West
+Colorado,2009,Infant,A,1,West
+Colorado,2010,Foodborne,A,1,West
+Colorado,2010,Infant,A,2,West
+Colorado,2010,Infant,B,1,West
+Colorado,2011,Infant,A,2,West
+Colorado,2011,Infant,B,1,West
+Colorado,2011,Wound,A,1,West
+Colorado,2012,Infant,B,1,West
+Colorado,2013,Infant,A,2,West
+Colorado,2013,Infant,B,1,West
+Colorado,2013,Infant,F,1,West
+Colorado,2014,Foodborne,B,1,West
+Colorado,2014,Infant,A,3,West
+Colorado,2014,Infant,B,2,West
+Colorado,2015,Infant,A,3,West
+Colorado,2016,Infant,A,2,West
+Colorado,2016,Wound,A,1,West
+Connecticut,1933,Foodborne,A,1,Northeast
+Connecticut,1933,Foodborne,Unknown,4,Northeast
+Connecticut,1942,Foodborne,Unknown,2,Northeast
+Connecticut,1947,Foodborne,B,2,Northeast
+Connecticut,1976,Foodborne,B,1,Northeast
+Connecticut,1980,Other,A,1,Northeast
+Connecticut,1983,Infant,B,1,Northeast
+Connecticut,1987,Infant,A,1,Northeast
+Connecticut,1987,Infant,B,1,Northeast
+Connecticut,1988,Infant,B,1,Northeast
+Connecticut,1990,Infant,B,1,Northeast
+Connecticut,1994,Infant,B,1,Northeast
+Connecticut,1996,Infant,Unknown,1,Northeast
+Connecticut,1998,Foodborne,A,1,Northeast
+Connecticut,2002,Infant,B,1,Northeast
+Connecticut,2003,Infant,B,1,Northeast
+Connecticut,2007,Infant,B,1,Northeast
+Connecticut,2008,Infant,B,2,Northeast
+Connecticut,2012,Infant,B,1,Northeast
+Connecticut,2016,Infant,B,1,Northeast
+Delaware,1978,Infant,B,1,South
+Delaware,1980,Infant,B,1,South
+Delaware,1981,Infant,B,1,South
+Delaware,1982,Infant,B,2,South
+Delaware,1983,Infant,B,1,South
+Delaware,1984,Infant,B,1,South
+Delaware,1986,Infant,B,4,South
+Delaware,1987,Infant,B,1,South
+Delaware,1988,Infant,B,2,South
+Delaware,1992,Infant,A,1,South
+Delaware,1992,Infant,Unknown,1,South
+Delaware,1993,Infant,B,1,South
+Delaware,1994,Infant,B,1,South
+Delaware,1995,Infant,B,2,South
+Delaware,1998,Infant,B,2,South
+Delaware,2000,Infant,B,2,South
+Delaware,2001,Infant,B,6,South
+Delaware,2002,Infant,B,2,South
+Delaware,2003,Infant,B,3,South
+Delaware,2004,Infant,B,2,South
+Delaware,2005,Infant,B,2,South
+Delaware,2007,Infant,B,3,South
+Delaware,2008,Infant,B,1,South
+Delaware,2009,Infant,B,2,South
+Delaware,2010,Infant,B,3,South
+Delaware,2011,Infant,B,2,South
+Delaware,2012,Foodborne,B,1,South
+Delaware,2013,Infant,B,3,South
+Delaware,2014,Infant,B,4,South
+Delaware,2015,Infant,B,2,South
+Delaware,2016,Infant,B,5,South
+Delaware,2017,Infant,B,2,South
+Florida,1916,Foodborne,Unknown,7,South
+Florida,1961,Foodborne,Unknown,1,South
+Florida,1975,Foodborne,B,1,South
+Florida,1981,Other,F,1,South
+Florida,1982,Infant,A,1,South
+Florida,1987,Foodborne,A,4,South
+Florida,1988,Foodborne,A,1,South
+Florida,1999,Foodborne,A,4,South
+Florida,2004,Infant,A,1,South
+Florida,2004,Other,A,4,South
+Florida,2005,Infant,A,1,South
+Florida,2006,Foodborne,A,1,South
+Florida,2006,Infant,A,1,South
+Florida,2007,Infant,A,1,South
+Florida,2008,Infant,A,1,South
+Florida,2009,Infant,A,1,South
+Florida,2010,Infant,A,1,South
+Florida,2012,Infant,B,1,South
+Florida,2015,Other,A,1,South
+Florida,2016,Other,A,1,South
+Florida,2017,Infant,A,1,South
+Georgia,1943,Foodborne,Unknown,1,South
+Georgia,1964,Foodborne,Unknown,1,South
+Georgia,1974,Foodborne,A,2,South
+Georgia,1977,Foodborne,E,1,South
+Georgia,1978,Foodborne,A,1,South
+Georgia,1978,Infant,B,1,South
+Georgia,1991,Infant,B,1,South
+Georgia,1993,Foodborne,A,4,South
+Georgia,1993,Infant,A,1,South
+Georgia,1997,Infant,B,1,South
+Georgia,1998,Infant,A,1,South
+Georgia,1998,Infant,B,1,South
+Georgia,1999,Infant,A,3,South
+Georgia,1999,Infant,B,1,South
+Georgia,2001,Infant,A,1,South
+Georgia,2001,Infant,B,1,South
+Georgia,2006,Foodborne,A,3,South
+Georgia,2010,Infant,A,1,South
+Georgia,2011,Foodborne,A,1,South
+Georgia,2014,Infant,A,1,South
+Georgia,2014,Infant,B,1,South
+Georgia,2016,Infant,A,1,South
+Georgia,2016,Other,F,1,South
+Georgia,2017,Infant,A,1,South
+Georgia,2017,Infant,B,1,South
+Hawaii,1981,Foodborne,B,1,West
+Hawaii,1981,Infant,A,1,West
+Hawaii,1981,Infant,B,1,West
+Hawaii,1982,Infant,B,4,West
+Hawaii,1983,Infant,B,4,West
+Hawaii,1984,Infant,AB,1,West
+Hawaii,1984,Infant,B,2,West
+Hawaii,1985,Infant,B,1,West
+Hawaii,1986,Infant,B,2,West
+Hawaii,1987,Foodborne,B,1,West
+Hawaii,1987,Infant,B,3,West
+Hawaii,1987,Wound,B,1,West
+Hawaii,1988,Foodborne,B,1,West
+Hawaii,1988,Infant,A,1,West
+Hawaii,1988,Infant,B,4,West
+Hawaii,1989,Infant,B,1,West
+Hawaii,1990,Foodborne,B,4,West
+Hawaii,1990,Infant,B,1,West
+Hawaii,1992,Infant,B,3,West
+Hawaii,1993,Infant,B,1,West
+Hawaii,1994,Infant,B,2,West
+Hawaii,1995,Infant,B,3,West
+Hawaii,1996,Infant,B,2,West
+Hawaii,1997,Infant,B,2,West
+Hawaii,2000,Infant,B,2,West
+Hawaii,2001,Infant,B,2,West
+Hawaii,2002,Infant,B,1,West
+Hawaii,2003,Infant,B,1,West
+Hawaii,2004,Infant,B,1,West
+Hawaii,2008,Infant,A,1,West
+Hawaii,2008,Infant,B,1,West
+Hawaii,2009,Infant,A,1,West
+Hawaii,2009,Infant,B,2,West
+Hawaii,2010,Infant,B,1,West
+Hawaii,2015,Infant,B,1,West
+Hawaii,2016,Infant,B,2,West
+Hawaii,2016,Wound,B,1,West
+Iowa,1919,Foodborne,Unknown,5,Midwest
+Iowa,1948,Wound,A,1,Midwest
+Iowa,1974,Foodborne,A,2,Midwest
+Iowa,1984,Infant,B,1,Midwest
+Iowa,1999,Foodborne,A,1,Midwest
+Iowa,2004,Infant,F,1,Midwest
+Iowa,2006,Infant,F,1,Midwest
+Iowa,2007,Infant,A,1,Midwest
+Iowa,2013,Infant,A,1,Midwest
+Iowa,2013,Infant,B,1,Midwest
+Iowa,2013,Infant,F,1,Midwest
+Iowa,2015,Infant,A,1,Midwest
+Iowa,2015,Infant,B,1,Midwest
+Idaho,1918,Foodborne,A,4,West
+Idaho,1932,Foodborne,Unknown,3,West
+Idaho,1932,Other,Unknown,1,West
+Idaho,1935,Foodborne,A,1,West
+Idaho,1939,Foodborne,Unknown,2,West
+Idaho,1959,Foodborne,Unknown,6,West
+Idaho,1961,Foodborne,Unknown,3,West
+Idaho,1965,Foodborne,Unknown,3,West
+Idaho,1969,Foodborne,Unknown,2,West
+Idaho,1972,Wound,A,1,West
+Idaho,1973,Foodborne,A,1,West
+Idaho,1974,Foodborne,A,1,West
+Idaho,1974,Wound,A,1,West
+Idaho,1977,Foodborne,A,1,West
+Idaho,1980,Infant,A,2,West
+Idaho,1981,Foodborne,A,1,West
+Idaho,1981,Infant,A,1,West
+Idaho,1985,Infant,A,1,West
+Idaho,1986,Infant,A,1,West
+Idaho,1987,Infant,A,3,West
+Idaho,1989,Infant,A,1,West
+Idaho,1989,Infant,B,1,West
+Idaho,1994,Infant,Unknown,2,West
+Idaho,1995,Foodborne,A,6,West
+Idaho,1996,Foodborne,B,1,West
+Idaho,1997,Infant,A,2,West
+Idaho,1998,Infant,A,1,West
+Idaho,1999,Infant,A,1,West
+Idaho,2004,Infant,A,1,West
+Idaho,2005,Infant,A,1,West
+Idaho,2008,Infant,B,1,West
+Idaho,2010,Infant,A,1,West
+Idaho,2011,Infant,A,1,West
+Idaho,2011,Infant,B,1,West
+Idaho,2012,Infant,A,2,West
+Idaho,2013,Infant,A,1,West
+Idaho,2015,Infant,A,2,West
+Idaho,2016,Infant,A,1,West
+Idaho,2016,Infant,B,1,West
+Idaho,2016,Infant,F,1,West
+Idaho,2017,Infant,A,3,West
+Illinois,1915,Foodborne,Unknown,4,Midwest
+Illinois,1925,Foodborne,Unknown,2,Midwest
+Illinois,1929,Foodborne,B,2,Midwest
+Illinois,1941,Foodborne,Unknown,1,Midwest
+Illinois,1944,Foodborne,Unknown,1,Midwest
+Illinois,1953,Foodborne,Unknown,4,Midwest
+Illinois,1956,Foodborne,Unknown,1,Midwest
+Illinois,1959,Foodborne,Unknown,1,Midwest
+Illinois,1967,Foodborne,E,3,Midwest
+Illinois,1969,Foodborne,A,1,Midwest
+Illinois,1970,Foodborne,A,4,Midwest
+Illinois,1975,Foodborne,B,1,Midwest
+Illinois,1981,Infant,A,1,Midwest
+Illinois,1983,Foodborne,A,29,Midwest
+Illinois,1983,Infant,A,1,Midwest
+Illinois,1983,Infant,B,1,Midwest
+Illinois,1983,Other,Unknown,1,Midwest
+Illinois,1985,Foodborne,B,1,Midwest
+Illinois,1987,Infant,B,1,Midwest
+Illinois,1991,Foodborne,A,1,Midwest
+Illinois,1994,Foodborne,A,1,Midwest
+Illinois,1994,Infant,A,1,Midwest
+Illinois,1994,Infant,B,1,Midwest
+Illinois,1997,Foodborne,B,1,Midwest
+Illinois,1998,Infant,A,1,Midwest
+Illinois,1998,Infant,B,2,Midwest
+Illinois,2000,Infant,B,2,Midwest
+Illinois,2002,Infant,B,1,Midwest
+Illinois,2005,Infant,A,1,Midwest
+Illinois,2005,Other,F,1,Midwest
+Illinois,2006,Foodborne,B,1,Midwest
+Illinois,2006,Infant,B,1,Midwest
+Illinois,2007,Infant,E,1,Midwest
+Illinois,2008,Infant,A,1,Midwest
+Illinois,2012,Infant,A,1,Midwest
+Illinois,2013,Infant,A,1,Midwest
+Illinois,2014,Foodborne,A,1,Midwest
+Illinois,2015,Foodborne,A,2,Midwest
+Indiana,1918,Foodborne,B,7,Midwest
+Indiana,1921,Foodborne,A,2,Midwest
+Indiana,1922,Foodborne,A,9,Midwest
+Indiana,1954,Foodborne,Unknown,2,Midwest
+Indiana,1966,Foodborne,A,2,Midwest
+Indiana,1969,Foodborne,Unknown,1,Midwest
+Indiana,1984,Infant,B,1,Midwest
+Indiana,1989,Infant,A,1,Midwest
+Indiana,1989,Infant,B,1,Midwest
+Indiana,1990,Infant,B,3,Midwest
+Indiana,1990,Wound,B,1,Midwest
+Indiana,1993,Infant,A,1,Midwest
+Indiana,1994,Infant,B,1,Midwest
+Indiana,1999,Foodborne,A,1,Midwest
+Indiana,2000,Infant,A,1,Midwest
+Indiana,2002,Infant,B,1,Midwest
+Indiana,2003,Infant,B,1,Midwest
+Indiana,2007,Foodborne,A,3,Midwest
+Indiana,2008,Foodborne,A,1,Midwest
+Indiana,2011,Infant,A,1,Midwest
+Indiana,2014,Infant,B,1,Midwest
+Indiana,2017,Infant,B,1,Midwest
+Kansas,1964,Foodborne,A,7,Midwest
+Kansas,1970,Foodborne,A,1,Midwest
+Kansas,1978,Other,A,1,Midwest
+Kansas,1980,Infant,A,1,Midwest
+Kansas,1982,Infant,B,1,Midwest
+Kansas,1984,Infant,A,1,Midwest
+Kansas,1988,Infant,A,1,Midwest
+Kansas,1988,Infant,B,1,Midwest
+Kansas,1991,Infant,A,1,Midwest
+Kansas,1991,Wound,A,1,Midwest
+Kansas,1995,Foodborne,A,1,Midwest
+Kansas,1996,Infant,A,1,Midwest
+Kansas,2002,Infant,A,1,Midwest
+Kansas,2004,Infant,B,1,Midwest
+Kansas,2009,Infant,B,1,Midwest
+Kansas,2011,Infant,B,1,Midwest
+Kansas,2012,Wound,A,1,Midwest
+Kansas,2013,Infant,B,1,Midwest
+Kansas,2015,Infant,A,1,Midwest
+Kansas,2017,Infant,A,1,Midwest
+Kansas,2017,Infant,B,1,Midwest
+Kentucky,1935,Foodborne,Unknown,2,South
+Kentucky,1936,Foodborne,Unknown,4,South
+Kentucky,1937,Foodborne,Unknown,3,South
+Kentucky,1938,Foodborne,B,2,South
+Kentucky,1947,Foodborne,Unknown,4,South
+Kentucky,1949,Foodborne,Unknown,7,South
+Kentucky,1951,Foodborne,Unknown,3,South
+Kentucky,1953,Foodborne,Unknown,1,South
+Kentucky,1954,Foodborne,Unknown,1,South
+Kentucky,1956,Foodborne,Unknown,4,South
+Kentucky,1957,Foodborne,Unknown,1,South
+Kentucky,1958,Foodborne,Unknown,3,South
+Kentucky,1960,Foodborne,Unknown,2,South
+Kentucky,1962,Foodborne,Unknown,1,South
+Kentucky,1963,Foodborne,B,5,South
+Kentucky,1963,Foodborne,E,2,South
+Kentucky,1964,Foodborne,B,4,South
+Kentucky,1964,Foodborne,Unknown,2,South
+Kentucky,1965,Foodborne,Unknown,5,South
+Kentucky,1969,Foodborne,B,1,South
+Kentucky,1973,Foodborne,B,3,South
+Kentucky,1979,Foodborne,B,2,South
+Kentucky,1979,Infant,B,1,South
+Kentucky,1980,Foodborne,B,1,South
+Kentucky,1983,Foodborne,B,1,South
+Kentucky,1983,Infant,B,3,South
+Kentucky,1984,Foodborne,A,1,South
+Kentucky,1984,Infant,B,1,South
+Kentucky,1985,Infant,B,1,South
+Kentucky,1987,Foodborne,A,1,South
+Kentucky,1987,Infant,A,1,South
+Kentucky,1988,Infant,Unknown,1,South
+Kentucky,1989,Wound,B,1,South
+Kentucky,1990,Infant,B,2,South
+Kentucky,1992,Infant,B,1,South
+Kentucky,1993,Foodborne,A,1,South
+Kentucky,1994,Infant,B,1,South
+Kentucky,1995,Infant,B,1,South
+Kentucky,1996,Infant,B,3,South
+Kentucky,1998,Infant,B,2,South
+Kentucky,1998,Infant,Unknown,1,South
+Kentucky,1999,Infant,B,3,South
+Kentucky,2000,Infant,B,2,South
+Kentucky,2001,Infant,A,1,South
+Kentucky,2001,Infant,B,4,South
+Kentucky,2002,Infant,B,1,South
+Kentucky,2004,Infant,B,1,South
+Kentucky,2005,Infant,B,1,South
+Kentucky,2007,Infant,B,1,South
+Kentucky,2010,Other,Unknown,1,South
+Kentucky,2011,Infant,B,2,South
+Kentucky,2012,Infant,B,4,South
+Kentucky,2013,Infant,A,1,South
+Kentucky,2013,Infant,B,1,South
+Kentucky,2014,Infant,B,1,South
+Kentucky,2015,Infant,B,1,South
+Kentucky,2016,Infant,B,4,South
+Kentucky,2017,Infant,B,7,South
+Louisiana,1952,Foodborne,Unknown,1,South
+Louisiana,1953,Foodborne,Unknown,1,South
+Louisiana,1955,Foodborne,Unknown,1,South
+Louisiana,1961,Foodborne,Unknown,1,South
+Louisiana,1984,Foodborne,A,1,South
+Louisiana,1984,Infant,A,2,South
+Louisiana,1984,Infant,B,1,South
+Louisiana,1985,Infant,A,1,South
+Louisiana,1985,Infant,B,1,South
+Louisiana,1989,Infant,B,1,South
+Louisiana,1990,Foodborne,B,1,South
+Louisiana,1992,Infant,B,1,South
+Louisiana,1995,Infant,B,1,South
+Louisiana,1996,Infant,A,2,South
+Louisiana,1997,Infant,A,1,South
+Louisiana,1999,Infant,B,1,South
+Louisiana,2001,Foodborne,B,1,South
+Louisiana,2003,Infant,B,1,South
+Louisiana,2005,Infant,B,1,South
+Louisiana,2009,Infant,B,1,South
+Louisiana,2013,Infant,B,3,South
+Louisiana,2014,Infant,A,1,South
+Louisiana,2015,Infant,A,1,South
+Louisiana,2015,Infant,B,1,South
+Louisiana,2017,Infant,B,1,South
+Massachusetts,1912,Foodborne,Unknown,4,Northeast
+Massachusetts,1913,Foodborne,Unknown,1,Northeast
+Massachusetts,1916,Foodborne,Unknown,1,Northeast
+Massachusetts,1938,Foodborne,Unknown,2,Northeast
+Massachusetts,1962,Foodborne,Unknown,1,Northeast
+Massachusetts,1974,Foodborne,B,1,Northeast
+Massachusetts,1979,Other,B,1,Northeast
+Massachusetts,1982,Foodborne,B,1,Northeast
+Massachusetts,1983,Infant,B,1,Northeast
+Massachusetts,1984,Infant,B,1,Northeast
+Massachusetts,1985,Infant,B,1,Northeast
+Massachusetts,1986,Infant,A,1,Northeast
+Massachusetts,1987,Infant,A,1,Northeast
+Massachusetts,1991,Infant,B,1,Northeast
+Massachusetts,1994,Infant,A,2,Northeast
+Massachusetts,1994,Infant,B,1,Northeast
+Massachusetts,1995,Foodborne,B,1,Northeast
+Massachusetts,1999,Infant,B,1,Northeast
+Massachusetts,2005,Foodborne,A,1,Northeast
+Massachusetts,2006,Infant,B,1,Northeast
+Massachusetts,2008,Infant,A,1,Northeast
+Massachusetts,2010,Infant,B,1,Northeast
+Massachusetts,2011,Infant,B,1,Northeast
+Massachusetts,2012,Infant,F,1,Northeast
+Massachusetts,2013,Other,F,1,Northeast
+Massachusetts,2017,Infant,B,1,Northeast
+Maryland,1947,Foodborne,B,4,South
+Maryland,1954,Foodborne,Unknown,1,South
+Maryland,1956,Foodborne,Unknown,2,South
+Maryland,1957,Foodborne,Unknown,2,South
+Maryland,1964,Foodborne,Unknown,1,South
+Maryland,1965,Foodborne,Unknown,1,South
+Maryland,1966,Foodborne,B,3,South
+Maryland,1971,Foodborne,A,1,South
+Maryland,1973,Foodborne,Unknown,2,South
+Maryland,1976,Wound,B,1,South
+Maryland,1978,Infant,B,1,South
+Maryland,1978,Other,B,1,South
+Maryland,1981,Infant,B,2,South
+Maryland,1983,Foodborne,B,1,South
+Maryland,1984,Infant,B,1,South
+Maryland,1985,Other,A,1,South
+Maryland,1988,Foodborne,A,1,South
+Maryland,1988,Infant,A,1,South
+Maryland,1989,Infant,B,1,South
+Maryland,1990,Infant,B,6,South
+Maryland,1991,Infant,B,1,South
+Maryland,1992,Infant,B,1,South
+Maryland,1993,Infant,B,1,South
+Maryland,1995,Infant,Unknown,1,South
+Maryland,1998,Infant,B,4,South
+Maryland,1999,Infant,B,2,South
+Maryland,2000,Infant,B,2,South
+Maryland,2001,Infant,A,1,South
+Maryland,2001,Infant,B,3,South
+Maryland,2001,Other,F,1,South
+Maryland,2003,Infant,B,1,South
+Maryland,2004,Infant,A,1,South
+Maryland,2004,Infant,B,5,South
+Maryland,2005,Infant,B,5,South
+Maryland,2006,Infant,B,5,South
+Maryland,2006,Wound,B,1,South
+Maryland,2007,Infant,B,1,South
+Maryland,2008,Infant,B,5,South
+Maryland,2009,Infant,B,3,South
+Maryland,2010,Infant,B,4,South
+Maryland,2011,Infant,B,3,South
+Maryland,2012,Infant,B,1,South
+Maryland,2013,Infant,B,8,South
+Maryland,2014,Infant,B,9,South
+Maryland,2014,Other,A,1,South
+Maryland,2015,Infant,A,1,South
+Maryland,2015,Infant,B,8,South
+Maryland,2015,Other,A,1,South
+Maryland,2016,Infant,B,4,South
+Maryland,2017,Infant,A,1,South
+Maryland,2017,Infant,B,6,South
+Maine,1920,Foodborne,Unknown,4,Northeast
+Maine,2000,Infant,B,1,Northeast
+Maine,2002,Foodborne,A,2,Northeast
+Maine,2002,Infant,B,1,Northeast
+Michigan,1918,Foodborne,Unknown,8,Midwest
+Michigan,1919,Foodborne,A,14,Midwest
+Michigan,1921,Foodborne,A,34,Midwest
+Michigan,1942,Foodborne,Unknown,2,Midwest
+Michigan,1959,Foodborne,Unknown,4,Midwest
+Michigan,1960,Foodborne,Unknown,4,Midwest
+Michigan,1963,Foodborne,E,5,Midwest
+Michigan,1968,Foodborne,B,2,Midwest
+Michigan,1968,Foodborne,Unknown,1,Midwest
+Michigan,1976,Foodborne,B,1,Midwest
+Michigan,1977,Foodborne,B,59,Midwest
+Michigan,1978,Foodborne,A,1,Midwest
+Michigan,1978,Other,A,1,Midwest
+Michigan,1980,Foodborne,A,2,Midwest
+Michigan,1983,Foodborne,A,2,Midwest
+Michigan,1984,Other,A,1,Midwest
+Michigan,1985,Infant,A,2,Midwest
+Michigan,1991,Infant,B,2,Midwest
+Michigan,1997,Infant,A,1,Midwest
+Michigan,1998,Other,A,1,Midwest
+Michigan,2002,Infant,A,1,Midwest
+Michigan,2005,Foodborne,B,1,Midwest
+Michigan,2009,Wound,A,1,Midwest
+Michigan,2012,Foodborne,A,2,Midwest
+Michigan,2012,Infant,B,2,Midwest
+Michigan,2014,Infant,A,1,Midwest
+Michigan,2015,Infant,B,1,Midwest
+Michigan,2016,Infant,B,1,Midwest
+Minnesota,1937,Foodborne,A,5,Midwest
+Minnesota,1948,Foodborne,Unknown,1,Midwest
+Minnesota,1950,Foodborne,Unknown,3,Midwest
+Minnesota,1960,Foodborne,E,2,Midwest
+Minnesota,1960,Foodborne,Unknown,2,Midwest
+Minnesota,1963,Foodborne,E,1,Midwest
+Minnesota,1976,Foodborne,Unknown,1,Midwest
+Minnesota,1998,Infant,A,1,Midwest
+Minnesota,2000,Other,F,1,Midwest
+Minnesota,2001,Infant,A,2,Midwest
+Minnesota,2002,Infant,B,2,Midwest
+Minnesota,2004,Infant,B,1,Midwest
+Minnesota,2006,Infant,A,1,Midwest
+Minnesota,2008,Infant,B,1,Midwest
+Minnesota,2009,Foodborne,A,2,Midwest
+Minnesota,2010,Infant,B,1,Midwest
+Minnesota,2011,Infant,B,1,Midwest
+Minnesota,2014,Infant,B,1,Midwest
+Minnesota,2015,Infant,B,1,Midwest
+Minnesota,2015,Wound,A,1,Midwest
+Minnesota,2016,Infant,B,2,Midwest
+Missouri,1922,Foodborne,A,1,Midwest
+Missouri,1924,Foodborne,Unknown,1,Midwest
+Missouri,1977,Foodborne,A,2,Midwest
+Missouri,1978,Infant,B,1,Midwest
+Missouri,1996,Infant,B,1,Midwest
+Missouri,1998,Infant,B,2,Midwest
+Missouri,1999,Infant,B,2,Midwest
+Missouri,2001,Infant,B,1,Midwest
+Missouri,2002,Infant,B,1,Midwest
+Missouri,2003,Infant,A,1,Midwest
+Missouri,2005,Infant,A,1,Midwest
+Missouri,2008,Infant,B,2,Midwest
+Missouri,2009,Infant,A,1,Midwest
+Missouri,2009,Infant,B,1,Midwest
+Missouri,2012,Infant,B,1,Midwest
+Missouri,2013,Infant,A,1,Midwest
+Missouri,2013,Infant,B,1,Midwest
+Missouri,2014,Infant,B,2,Midwest
+Mississippi,1941,Foodborne,Unknown,4,South
+Mississippi,1957,Foodborne,Unknown,16,South
+Mississippi,1959,Foodborne,Unknown,1,South
+Mississippi,1973,Foodborne,A,1,South
+Mississippi,1990,Foodborne,A,1,South
+Mississippi,1991,Infant,B,1,South
+Mississippi,1994,Foodborne,B,1,South
+Mississippi,1994,Infant,B,1,South
+Mississippi,2003,Infant,B,1,South
+Mississippi,2010,Foodborne,B,1,South
+Mississippi,2011,Infant,B,2,South
+Mississippi,2012,Infant,B,2,South
+Mississippi,2013,Infant,B,2,South
+Mississippi,2015,Infant,B,1,South
+Mississippi,2016,Foodborne,A,18,South
+Mississippi,2016,Infant,B,5,South
+Montana,1927,Foodborne,A,4,West
+Montana,1932,Foodborne,Unknown,5,West
+Montana,1933,Foodborne,A,3,West
+Montana,1933,Foodborne,Unknown,4,West
+Montana,1934,Foodborne,Unknown,2,West
+Montana,1935,Foodborne,Unknown,2,West
+Montana,1937,Foodborne,Unknown,1,West
+Montana,1942,Foodborne,Unknown,1,West
+Montana,1947,Foodborne,Unknown,1,West
+Montana,1949,Foodborne,Unknown,1,West
+Montana,1951,Foodborne,Unknown,3,West
+Montana,1975,Foodborne,A,1,West
+Montana,1976,Foodborne,Unknown,1,West
+Montana,1977,Infant,B,1,West
+Montana,1981,Foodborne,A,1,West
+Montana,1983,Infant,B,1,West
+Montana,1984,Infant,A,1,West
+Montana,1998,Foodborne,A,1,West
+Montana,1999,Infant,A,1,West
+Montana,2000,Infant,A,2,West
+Montana,2001,Infant,A,1,West
+Montana,2004,Foodborne,A,1,West
+Montana,2004,Infant,A,1,West
+Montana,2005,Other,F,1,West
+Montana,2006,Infant,A,1,West
+Montana,2008,Infant,A,3,West
+Montana,2010,Infant,A,1,West
+Montana,2014,Infant,A,1,West
+Montana,2016,Infant,A,1,West
+Montana,2017,Infant,A,2,West
+North Carolina,1952,Foodborne,Unknown,1,South
+North Carolina,1953,Foodborne,Unknown,1,South
+North Carolina,1958,Foodborne,Unknown,1,South
+North Carolina,1976,Foodborne,B,1,South
+North Carolina,1980,Foodborne,B,1,South
+North Carolina,1980,Infant,B,1,South
+North Carolina,1983,Infant,A,1,South
+North Carolina,1988,Foodborne,A,1,South
+North Carolina,1988,Infant,A,1,South
+North Carolina,1992,Foodborne,A,1,South
+North Carolina,1997,Foodborne,A,1,South
+North Carolina,1997,Infant,A,1,South
+North Carolina,1998,Infant,A,1,South
+North Carolina,1998,Infant,B,1,South
+North Carolina,1999,Infant,B,2,South
+North Carolina,2000,Other,F,1,South
+North Carolina,2005,Foodborne,A,1,South
+North Carolina,2005,Infant,B,1,South
+North Carolina,2007,Infant,B,1,South
+North Carolina,2008,Infant,B,1,South
+North Carolina,2009,Other,F,1,South
+North Carolina,2010,Infant,B,1,South
+North Carolina,2011,Infant,B,1,South
+North Carolina,2012,Infant,B,1,South
+North Carolina,2015,Foodborne,A,1,South
+North Carolina,2015,Infant,A,1,South
+North Carolina,2015,Infant,B,2,South
+North Carolina,2017,Infant,A,1,South
+North Dakota,1930,Foodborne,Unknown,4,Midwest
+North Dakota,1931,Foodborne,A,13,Midwest
+North Dakota,1935,Foodborne,Unknown,4,Midwest
+North Dakota,1940,Foodborne,Unknown,4,Midwest
+North Dakota,1941,Foodborne,Unknown,5,Midwest
+North Dakota,1964,Foodborne,Unknown,1,Midwest
+North Dakota,1977,Infant,A,1,Midwest
+North Dakota,1982,Foodborne,A,1,Midwest
+North Dakota,1999,Foodborne,A,1,Midwest
+North Dakota,1999,Infant,A,1,Midwest
+North Dakota,2015,Infant,A,1,Midwest
+Nebraska,1919,Foodborne,Unknown,2,Midwest
+Nebraska,1923,Foodborne,A,3,Midwest
+Nebraska,1923,Foodborne,B,3,Midwest
+Nebraska,1931,Foodborne,A,2,Midwest
+Nebraska,1931,Foodborne,Unknown,2,Midwest
+Nebraska,1932,Foodborne,Unknown,3,Midwest
+Nebraska,1935,Foodborne,Unknown,7,Midwest
+Nebraska,1940,Foodborne,Unknown,1,Midwest
+Nebraska,1941,Foodborne,Unknown,3,Midwest
+Nebraska,1942,Foodborne,Unknown,1,Midwest
+Nebraska,1944,Foodborne,Unknown,5,Midwest
+Nebraska,1971,Wound,A,1,Midwest
+Nebraska,1973,Wound,Unknown,1,Midwest
+Nebraska,1977,Foodborne,A,1,Midwest
+Nebraska,1979,Foodborne,A,1,Midwest
+Nebraska,1981,Infant,A,1,Midwest
+Nebraska,1990,Infant,A,1,Midwest
+Nebraska,1999,Infant,A,1,Midwest
+Nebraska,2004,Infant,A,1,Midwest
+Nebraska,2009,Other,F,1,Midwest
+Nebraska,2013,Infant,A,1,Midwest
+Nebraska,2014,Infant,A,1,Midwest
+Nebraska,2017,Infant,A,1,Midwest
+Nebraska,2017,Infant,B,1,Midwest
+New Hampshire,1999,Infant,B,1,Northeast
+New Hampshire,2004,Infant,B,1,Northeast
+New Hampshire,2005,Infant,B,1,Northeast
+New Jersey,1918,Foodborne,Unknown,3,Northeast
+New Jersey,1923,Foodborne,Unknown,2,Northeast
+New Jersey,1935,Foodborne,Unknown,5,Northeast
+New Jersey,1947,Foodborne,Unknown,1,Northeast
+New Jersey,1948,Foodborne,Unknown,3,Northeast
+New Jersey,1951,Foodborne,Unknown,12,Northeast
+New Jersey,1957,Foodborne,Unknown,1,Northeast
+New Jersey,1962,Foodborne,Unknown,2,Northeast
+New Jersey,1965,Foodborne,Unknown,1,Northeast
+New Jersey,1974,Wound,Unknown,1,Northeast
+New Jersey,1975,Infant,B,1,Northeast
+New Jersey,1977,Foodborne,Unknown,3,Northeast
+New Jersey,1978,Infant,B,1,Northeast
+New Jersey,1979,Infant,B,1,Northeast
+New Jersey,1980,Infant,B,2,Northeast
+New Jersey,1981,Infant,B,1,Northeast
+New Jersey,1985,Infant,B,3,Northeast
+New Jersey,1986,Infant,B,1,Northeast
+New Jersey,1987,Infant,B,1,Northeast
+New Jersey,1988,Infant,B,5,Northeast
+New Jersey,1988,Infant,Unknown,1,Northeast
+New Jersey,1989,Foodborne,Unknown,2,Northeast
+New Jersey,1989,Infant,B,1,Northeast
+New Jersey,1990,Infant,B,2,Northeast
+New Jersey,1991,Infant,B,2,Northeast
+New Jersey,1991,Other,B,1,Northeast
+New Jersey,1992,Foodborne,E,3,Northeast
+New Jersey,1992,Infant,B,2,Northeast
+New Jersey,1993,Infant,B,2,Northeast
+New Jersey,1994,Infant,B,2,Northeast
+New Jersey,1995,Infant,B,5,Northeast
+New Jersey,1996,Infant,B,8,Northeast
+New Jersey,1997,Infant,A,1,Northeast
+New Jersey,1997,Infant,B,2,Northeast
+New Jersey,1998,Foodborne,A,1,Northeast
+New Jersey,1998,Infant,B,9,Northeast
+New Jersey,1999,Infant,B,14,Northeast
+New Jersey,2000,Foodborne,A,2,Northeast
+New Jersey,2000,Foodborne,E,4,Northeast
+New Jersey,2000,Infant,B,11,Northeast
+New Jersey,2001,Infant,B,6,Northeast
+New Jersey,2002,Infant,B,3,Northeast
+New Jersey,2003,Infant,B,5,Northeast
+New Jersey,2004,Foodborne,E,1,Northeast
+New Jersey,2004,Infant,B,1,Northeast
+New Jersey,2005,Foodborne,E,2,Northeast
+New Jersey,2005,Infant,A,1,Northeast
+New Jersey,2005,Infant,B,8,Northeast
+New Jersey,2006,Infant,B,7,Northeast
+New Jersey,2007,Foodborne,B,1,Northeast
+New Jersey,2007,Infant,A,1,Northeast
+New Jersey,2007,Infant,B,9,Northeast
+New Jersey,2008,Infant,B,3,Northeast
+New Jersey,2009,Infant,B,11,Northeast
+New Jersey,2010,Infant,A,1,Northeast
+New Jersey,2010,Infant,B,5,Northeast
+New Jersey,2011,Infant,A,2,Northeast
+New Jersey,2011,Infant,B,9,Northeast
+New Jersey,2012,Foodborne,A,1,Northeast
+New Jersey,2012,Infant,B,6,Northeast
+New Jersey,2013,Infant,B,4,Northeast
+New Jersey,2014,Infant,B,10,Northeast
+New Jersey,2015,Infant,A,2,Northeast
+New Jersey,2015,Infant,B,4,Northeast
+New Jersey,2016,Infant,B,10,Northeast
+New Jersey,2016,Wound,A,1,Northeast
+New Jersey,2017,Infant,B,7,Northeast
+New Mexico,1931,Foodborne,Unknown,2,West
+New Mexico,1932,Foodborne,B,4,West
+New Mexico,1932,Foodborne,Unknown,2,West
+New Mexico,1934,Foodborne,Unknown,5,West
+New Mexico,1935,Foodborne,A,4,West
+New Mexico,1937,Foodborne,A,14,West
+New Mexico,1937,Foodborne,Unknown,2,West
+New Mexico,1938,Foodborne,A,2,West
+New Mexico,1938,Foodborne,Unknown,1,West
+New Mexico,1939,Foodborne,Unknown,1,West
+New Mexico,1941,Foodborne,Unknown,2,West
+New Mexico,1942,Foodborne,A,1,West
+New Mexico,1942,Foodborne,Unknown,1,West
+New Mexico,1943,Foodborne,A,4,West
+New Mexico,1943,Foodborne,Unknown,1,West
+New Mexico,1944,Foodborne,Unknown,3,West
+New Mexico,1946,Foodborne,A,7,West
+New Mexico,1947,Foodborne,A,6,West
+New Mexico,1948,Foodborne,A,9,West
+New Mexico,1950,Foodborne,Unknown,1,West
+New Mexico,1952,Foodborne,Unknown,1,West
+New Mexico,1955,Foodborne,A,4,West
+New Mexico,1955,Foodborne,Unknown,1,West
+New Mexico,1957,Foodborne,Unknown,1,West
+New Mexico,1962,Foodborne,A,3,West
+New Mexico,1976,Foodborne,Unknown,1,West
+New Mexico,1978,Foodborne,A,33,West
+New Mexico,1978,Infant,A,2,West
+New Mexico,1979,Infant,F,1,West
+New Mexico,1980,Infant,A,2,West
+New Mexico,1980,Infant,B/F,1,West
+New Mexico,1981,Infant,B,1,West
+New Mexico,1983,Infant,A,1,West
+New Mexico,1984,Infant,B,1,West
+New Mexico,1986,Infant,A,2,West
+New Mexico,1989,Foodborne,A,2,West
+New Mexico,1989,Infant,A,2,West
+New Mexico,1992,Infant,A,1,West
+New Mexico,1992,Infant,B,1,West
+New Mexico,1995,Infant,A,1,West
+New Mexico,1996,Foodborne,A,1,West
+New Mexico,1996,Wound,A,1,West
+New Mexico,1997,Foodborne,B,1,West
+New Mexico,1997,Infant,A,1,West
+New Mexico,1997,Wound,A,2,West
+New Mexico,1999,Infant,A,1,West
+New Mexico,2000,Infant,A,3,West
+New Mexico,2001,Wound,A,2,West
+New Mexico,2002,Infant,A,1,West
+New Mexico,2003,Infant,A,1,West
+New Mexico,2005,Infant,B,1,West
+New Mexico,2006,Infant,A,1,West
+New Mexico,2007,Foodborne,A,1,West
+New Mexico,2007,Infant,A,2,West
+New Mexico,2008,Infant,A,2,West
+New Mexico,2009,Other,A,1,West
+New Mexico,2010,Foodborne,A,1,West
+New Mexico,2010,Infant,A,1,West
+New Mexico,2011,Infant,A,1,West
+New Mexico,2011,Infant,B,1,West
+New Mexico,2012,Infant,A,2,West
+New Mexico,2013,Infant,A,3,West
+New Mexico,2015,Foodborne,A,2,West
+New Mexico,2015,Infant,A,1,West
+New Mexico,2015,Infant,B,1,West
+New Mexico,2016,Wound,A,3,West
+New Mexico,2017,Wound,A,1,West
+Nevada,1944,Foodborne,Unknown,2,West
+Nevada,1945,Foodborne,Unknown,1,West
+Nevada,1954,Foodborne,Unknown,3,West
+Nevada,1974,Foodborne,A,3,West
+Nevada,1977,Infant,A,1,West
+Nevada,1980,Infant,B,1,West
+Nevada,1985,Foodborne,A,2,West
+Nevada,1988,Infant,A,1,West
+Nevada,1989,Infant,A,1,West
+Nevada,1991,Infant,B,1,West
+Nevada,1995,Infant,A,1,West
+Nevada,1996,Foodborne,A,1,West
+Nevada,1997,Infant,A,1,West
+Nevada,1998,Infant,A,1,West
+Nevada,1998,Infant,B,1,West
+Nevada,1999,Infant,A,1,West
+Nevada,2000,Infant,A,1,West
+Nevada,2000,Infant,B,1,West
+Nevada,2001,Infant,A,1,West
+Nevada,2003,Infant,A,2,West
+Nevada,2005,Infant,A,1,West
+Nevada,2006,Foodborne,A,2,West
+Nevada,2006,Infant,A,1,West
+Nevada,2006,Infant,Ba,1,West
+Nevada,2009,Infant,A,1,West
+Nevada,2011,Infant,A,1,West
+Nevada,2013,Infant,A,1,West
+Nevada,2014,Infant,A,1,West
+New York,1914,Foodborne,B,3,Northeast
+New York,1917,Foodborne,Unknown,7,Northeast
+New York,1918,Foodborne,Unknown,1,Northeast
+New York,1919,Foodborne,Unknown,7,Northeast
+New York,1920,Foodborne,Unknown,3,Northeast
+New York,1922,Foodborne,Unknown,2,Northeast
+New York,1923,Foodborne,B,1,Northeast
+New York,1925,Foodborne,Unknown,1,Northeast
+New York,1928,Foodborne,B,12,Northeast
+New York,1929,Foodborne,Unknown,1,Northeast
+New York,1931,Foodborne,Unknown,5,Northeast
+New York,1932,Foodborne,E,3,Northeast
+New York,1933,Foodborne,Unknown,1,Northeast
+New York,1934,Foodborne,E,3,Northeast
+New York,1939,Foodborne,Unknown,7,Northeast
+New York,1940,Foodborne,Unknown,1,Northeast
+New York,1943,Foodborne,B,3,Northeast
+New York,1944,Foodborne,B,3,Northeast
+New York,1945,Foodborne,Unknown,1,Northeast
+New York,1949,Foodborne,Unknown,4,Northeast
+New York,1956,Foodborne,B,1,Northeast
+New York,1956,Foodborne,Unknown,1,Northeast
+New York,1963,Foodborne,A,2,Northeast
+New York,1966,Foodborne,B,1,Northeast
+New York,1967,Foodborne,B,2,Northeast
+New York,1971,Foodborne,A,4,Northeast
+New York,1974,Foodborne,B,3,Northeast
+New York,1975,Foodborne,E,1,Northeast
+New York,1977,Infant,B,1,Northeast
+New York,1978,Other,A,1,Northeast
+New York,1978,Other,B,1,Northeast
+New York,1979,Infant,B,1,Northeast
+New York,1979,Other,B,1,Northeast
+New York,1980,Foodborne,B,2,Northeast
+New York,1981,Wound,B,1,Northeast
+New York,1982,Foodborne,B,1,Northeast
+New York,1982,Infant,B,2,Northeast
+New York,1983,Infant,A,1,Northeast
+New York,1986,Infant,B,1,Northeast
+New York,1987,Foodborne,E,2,Northeast
+New York,1987,Infant,B,1,Northeast
+New York,1989,Foodborne,A,3,Northeast
+New York,1990,Infant,B,2,Northeast
+New York,1991,Infant,Unknown,1,Northeast
+New York,1994,Foodborne,A,1,Northeast
+New York,1995,Infant,B,1,Northeast
+New York,1996,Infant,B,2,Northeast
+New York,1997,Infant,A,2,Northeast
+New York,1997,Infant,B,2,Northeast
+New York,1998,Infant,A,1,Northeast
+New York,1998,Infant,B,2,Northeast
+New York,1999,Foodborne,A,1,Northeast
+New York,1999,Infant,B,1,Northeast
+New York,2000,Foodborne,A,1,Northeast
+New York,2000,Infant,B,2,Northeast
+New York,2001,Infant,A,1,Northeast
+New York,2001,Infant,B,1,Northeast
+New York,2003,Infant,B,4,Northeast
+New York,2004,Infant,B,1,Northeast
+New York,2006,Infant,B,1,Northeast
+New York,2007,Infant,B,4,Northeast
+New York,2007,Other,F,1,Northeast
+New York,2008,Infant,A,1,Northeast
+New York,2009,Infant,A,1,Northeast
+New York,2009,Infant,B,1,Northeast
+New York,2010,Infant,B,1,Northeast
+New York,2011,Infant,B,1,Northeast
+New York,2011,Other,A,1,Northeast
+New York,2012,Infant,A,1,Northeast
+New York,2012,Infant,B,3,Northeast
+New York,2012,Other,A,1,Northeast
+New York,2013,Infant,B,1,Northeast
+New York,2014,Foodborne,A,2,Northeast
+New York,2014,Infant,B,3,Northeast
+New York,2015,Infant,A,1,Northeast
+New York,2015,Infant,B,3,Northeast
+New York,2016,Infant,A,1,Northeast
+New York,2016,Infant,B,4,Northeast
+New York,2016,Infant,Ba,1,Northeast
+New York,2017,Infant,A,1,Northeast
+New York,2017,Infant,B,4,Northeast
+Ohio,1919,Foodborne,A,14,Midwest
+Ohio,1922,Foodborne,Unknown,10,Midwest
+Ohio,1933,Foodborne,Unknown,3,Midwest
+Ohio,1951,Foodborne,Unknown,1,Midwest
+Ohio,1953,Foodborne,Unknown,1,Midwest
+Ohio,1954,Foodborne,Unknown,1,Midwest
+Ohio,1957,Foodborne,Unknown,1,Midwest
+Ohio,1972,Foodborne,Unknown,4,Midwest
+Ohio,1974,Foodborne,A,1,Midwest
+Ohio,1976,Foodborne,A,1,Midwest
+Ohio,1976,Foodborne,B,1,Midwest
+Ohio,1980,Infant,B,3,Midwest
+Ohio,1981,Foodborne,A,1,Midwest
+Ohio,1981,Infant,B,1,Midwest
+Ohio,1982,Infant,B,1,Midwest
+Ohio,1983,Infant,B,1,Midwest
+Ohio,1986,Infant,B,1,Midwest
+Ohio,1987,Foodborne,B,1,Midwest
+Ohio,1987,Infant,B,1,Midwest
+Ohio,1988,Infant,A,1,Midwest
+Ohio,1989,Infant,A,1,Midwest
+Ohio,1989,Infant,B,3,Midwest
+Ohio,1990,Infant,B,3,Midwest
+Ohio,1991,Infant,A,1,Midwest
+Ohio,1992,Infant,A,1,Midwest
+Ohio,1992,Infant,B,1,Midwest
+Ohio,1993,Infant,A,2,Midwest
+Ohio,1993,Infant,B,4,Midwest
+Ohio,1994,Foodborne,A,1,Midwest
+Ohio,1994,Infant,A,2,Midwest
+Ohio,1994,Infant,B,5,Midwest
+Ohio,1995,Infant,B,1,Midwest
+Ohio,1996,Infant,A,1,Midwest
+Ohio,1997,Infant,B,3,Midwest
+Ohio,1998,Infant,B,1,Midwest
+Ohio,1998,Infant,F,1,Midwest
+Ohio,1999,Infant,B,1,Midwest
+Ohio,2000,Foodborne,A,4,Midwest
+Ohio,2000,Infant,A,1,Midwest
+Ohio,2000,Infant,B,4,Midwest
+Ohio,2001,Infant,B,4,Midwest
+Ohio,2002,Infant,B,4,Midwest
+Ohio,2004,Foodborne,A,1,Midwest
+Ohio,2004,Infant,B,2,Midwest
+Ohio,2006,Infant,B,2,Midwest
+Ohio,2007,Foodborne,A,3,Midwest
+Ohio,2007,Infant,B,1,Midwest
+Ohio,2008,Foodborne,A,4,Midwest
+Ohio,2008,Infant,B,1,Midwest
+Ohio,2009,Foodborne,B,1,Midwest
+Ohio,2009,Infant,B,5,Midwest
+Ohio,2010,Infant,B,2,Midwest
+Ohio,2011,Foodborne,A,1,Midwest
+Ohio,2011,Infant,B,1,Midwest
+Ohio,2012,Foodborne,A,1,Midwest
+Ohio,2012,Infant,B,4,Midwest
+Ohio,2012,Infant,F,1,Midwest
+Ohio,2012,Other,A,1,Midwest
+Ohio,2013,Infant,B,4,Midwest
+Ohio,2013,Infant,E,1,Midwest
+Ohio,2014,Foodborne,B,2,Midwest
+Ohio,2014,Infant,B,3,Midwest
+Ohio,2015,Foodborne,A,27,Midwest
+Ohio,2015,Infant,A,1,Midwest
+Ohio,2015,Infant,B,4,Midwest
+Ohio,2015,Wound,B,1,Midwest
+Ohio,2016,Infant,A,1,Midwest
+Ohio,2016,Infant,B,6,Midwest
+Ohio,2016,Infant,F,1,Midwest
+Ohio,2017,Infant,B,3,Midwest
+Oklahoma,1935,Foodborne,Unknown,2,South
+Oklahoma,1949,Foodborne,Unknown,1,South
+Oklahoma,1953,Foodborne,Unknown,1,South
+Oklahoma,1956,Foodborne,Unknown,1,South
+Oklahoma,1958,Foodborne,Unknown,1,South
+Oklahoma,1972,Foodborne,Unknown,1,South
+Oklahoma,1976,Foodborne,Unknown,7,South
+Oklahoma,1979,Other,A,1,South
+Oklahoma,1984,Foodborne,A,1,South
+Oklahoma,1984,Infant,A,1,South
+Oklahoma,1985,Foodborne,A,1,South
+Oklahoma,1986,Infant,A,1,South
+Oklahoma,1991,Infant,A,1,South
+Oklahoma,1992,Infant,B,1,South
+Oklahoma,1994,Foodborne,A,1,South
+Oklahoma,1994,Infant,B,1,South
+Oklahoma,1999,Infant,A,1,South
+Oklahoma,2001,Infant,B,1,South
+Oklahoma,2002,Infant,A,1,South
+Oklahoma,2005,Foodborne,A,1,South
+Oklahoma,2005,Infant,A,1,South
+Oklahoma,2010,Infant,A,1,South
+Oklahoma,2010,Infant,B,1,South
+Oklahoma,2011,Foodborne,F,1,South
+Oklahoma,2012,Infant,A,1,South
+Oklahoma,2013,Infant,A,1,South
+Oklahoma,2015,Infant,A,2,South
+Oklahoma,2016,Foodborne,A,2,South
+Oregon,1915,Foodborne,A,1,West
+Oregon,1917,Foodborne,Unknown,1,West
+Oregon,1923,Foodborne,Unknown,1,West
+Oregon,1924,Foodborne,A,12,West
+Oregon,1924,Foodborne,Unknown,1,West
+Oregon,1929,Foodborne,A,3,West
+Oregon,1931,Foodborne,Unknown,4,West
+Oregon,1934,Foodborne,Unknown,3,West
+Oregon,1935,Foodborne,Unknown,10,West
+Oregon,1939,Foodborne,A,2,West
+Oregon,1940,Foodborne,A,3,West
+Oregon,1940,Foodborne,Unknown,1,West
+Oregon,1941,Foodborne,A,3,West
+Oregon,1947,Foodborne,A,2,West
+Oregon,1948,Foodborne,Unknown,3,West
+Oregon,1952,Foodborne,A,2,West
+Oregon,1954,Foodborne,A,1,West
+Oregon,1969,Foodborne,A,1,West
+Oregon,1970,Foodborne,Unknown,4,West
+Oregon,1973,Foodborne,A,2,West
+Oregon,1974,Foodborne,A,1,West
+Oregon,1975,Foodborne,A,1,West
+Oregon,1976,Foodborne,Unknown,1,West
+Oregon,1977,Foodborne,B,3,West
+Oregon,1977,Infant,A,1,West
+Oregon,1978,Other,A,1,West
+Oregon,1980,Foodborne,A,1,West
+Oregon,1980,Infant,A,3,West
+Oregon,1981,Foodborne,A,2,West
+Oregon,1981,Infant,A,1,West
+Oregon,1982,Foodborne,A,3,West
+Oregon,1982,Infant,B,1,West
+Oregon,1984,Infant,A,2,West
+Oregon,1985,Foodborne,B,2,West
+Oregon,1985,Infant,A,1,West
+Oregon,1986,Foodborne,A,1,West
+Oregon,1986,Infant,A,1,West
+Oregon,1987,Foodborne,A,2,West
+Oregon,1987,Foodborne,Unknown,1,West
+Oregon,1987,Infant,A,2,West
+Oregon,1987,Wound,B,1,West
+Oregon,1988,Foodborne,A,6,West
+Oregon,1988,Infant,Unknown,1,West
+Oregon,1988,Other,A,1,West
+Oregon,1989,Foodborne,A,1,West
+Oregon,1989,Infant,A,1,West
+Oregon,1989,Infant,B,2,West
+Oregon,1990,Foodborne,A,2,West
+Oregon,1990,Infant,A,1,West
+Oregon,1990,Infant,B,1,West
+Oregon,1991,Foodborne,A,1,West
+Oregon,1991,Infant,A,3,West
+Oregon,1991,Infant,B,1,West
+Oregon,1992,Infant,A,1,West
+Oregon,1993,Infant,A,1,West
+Oregon,1994,Infant,A,2,West
+Oregon,1994,Infant,B,1,West
+Oregon,1995,Wound,A,1,West
+Oregon,1996,Infant,A,1,West
+Oregon,1996,Infant,B,1,West
+Oregon,1997,Foodborne,A,2,West
+Oregon,1997,Foodborne,B,1,West
+Oregon,1997,Infant,A,1,West
+Oregon,1998,Infant,A,2,West
+Oregon,1999,Infant,A,3,West
+Oregon,1999,Wound,A,1,West
+Oregon,2000,Infant,B,1,West
+Oregon,2001,Infant,A,2,West
+Oregon,2001,Wound,A,1,West
+Oregon,2002,Foodborne,A,1,West
+Oregon,2002,Infant,A,2,West
+Oregon,2002,Other,A,1,West
+Oregon,2003,Infant,A,3,West
+Oregon,2003,Wound,A,1,West
+Oregon,2004,Foodborne,A,4,West
+Oregon,2004,Infant,B,1,West
+Oregon,2004,Wound,B,1,West
+Oregon,2005,Infant,A,2,West
+Oregon,2007,Foodborne,A,1,West
+Oregon,2008,Infant,A,1,West
+Oregon,2008,Infant,B,1,West
+Oregon,2010,Infant,A,1,West
+Oregon,2011,Foodborne,A,1,West
+Oregon,2011,Infant,A,2,West
+Oregon,2012,Foodborne,A,3,West
+Oregon,2012,Infant,A,3,West
+Oregon,2013,Foodborne,A,1,West
+Oregon,2013,Infant,A,3,West
+Oregon,2014,Foodborne,A,1,West
+Oregon,2015,Infant,A,3,West
+Oregon,2016,Foodborne,E,1,West
+Oregon,2016,Infant,A,1,West
+Oregon,2016,Infant,Ab,1,West
+Oregon,2017,Infant,A,3,West
+Oregon,2017,Infant,B,1,West
+Pennsylvania,1920,Foodborne,Unknown,4,Northeast
+Pennsylvania,1921,Foodborne,A,5,Northeast
+Texas,1974,Wound,B,1,South
+Pennsylvania,1932,Foodborne,Unknown,1,Northeast
+Pennsylvania,1941,Foodborne,Unknown,3,Northeast
+Pennsylvania,1943,Wound,A,1,Northeast
+Pennsylvania,1955,Foodborne,Unknown,2,Northeast
+Pennsylvania,1963,Foodborne,B,3,Northeast
+Pennsylvania,1971,Foodborne,B,3,Northeast
+Pennsylvania,1972,Wound,Unknown,1,Northeast
+Pennsylvania,1973,Foodborne,B,1,Northeast
+Pennsylvania,1974,Foodborne,A,1,Northeast
+Pennsylvania,1976,Infant,B,1,Northeast
+Pennsylvania,1977,Infant,A,1,Northeast
+Pennsylvania,1977,Infant,B,3,Northeast
+Pennsylvania,1978,Foodborne,A,2,Northeast
+Pennsylvania,1978,Infant,B,5,Northeast
+Pennsylvania,1979,Infant,B,4,Northeast
+Pennsylvania,1980,Infant,B,9,Northeast
+Pennsylvania,1981,Infant,B,11,Northeast
+Pennsylvania,1981,Wound,B,1,Northeast
+Pennsylvania,1982,Infant,B,3,Northeast
+Pennsylvania,1983,Foodborne,B,1,Northeast
+Pennsylvania,1983,Infant,B,14,Northeast
+Pennsylvania,1984,Infant,A,2,Northeast
+Pennsylvania,1984,Infant,B,10,Northeast
+Pennsylvania,1985,Infant,B,6,Northeast
+Pennsylvania,1986,Infant,A,1,Northeast
+Pennsylvania,1986,Infant,B,7,Northeast
+Pennsylvania,1987,Infant,B,8,Northeast
+Pennsylvania,1988,Infant,B,10,Northeast
+Pennsylvania,1989,Foodborne,Unknown,2,Northeast
+Pennsylvania,1989,Infant,B,8,Northeast
+Pennsylvania,1990,Infant,B,8,Northeast
+Pennsylvania,1991,Infant,A,1,Northeast
+Pennsylvania,1991,Infant,B,7,Northeast
+Pennsylvania,1992,Infant,B,5,Northeast
+Pennsylvania,1993,Infant,B,9,Northeast
+Pennsylvania,1994,Infant,B,13,Northeast
+Pennsylvania,1995,Infant,B,11,Northeast
+Pennsylvania,1996,Infant,B,9,Northeast
+Pennsylvania,1997,Infant,B,15,Northeast
+Pennsylvania,1998,Foodborne,A,2,Northeast
+Pennsylvania,1998,Infant,B,11,Northeast
+Pennsylvania,1999,Infant,B,15,Northeast
+Pennsylvania,2000,Infant,B,8,Northeast
+Pennsylvania,2000,Other,A,1,Northeast
+Pennsylvania,2001,Infant,B,13,Northeast
+Pennsylvania,2002,Foodborne,B,1,Northeast
+Pennsylvania,2002,Infant,B,16,Northeast
+Pennsylvania,2003,Infant,B,15,Northeast
+Pennsylvania,2004,Infant,A,1,Northeast
+Pennsylvania,2004,Infant,B,14,Northeast
+Pennsylvania,2005,Foodborne,A,1,Northeast
+Pennsylvania,2005,Infant,B,11,Northeast
+Pennsylvania,2006,Infant,B,11,Northeast
+Pennsylvania,2007,Infant,B,13,Northeast
+Pennsylvania,2008,Infant,A,1,Northeast
+Pennsylvania,2008,Infant,B,15,Northeast
+Pennsylvania,2009,Infant,B,10,Northeast
+Pennsylvania,2010,Infant,B,16,Northeast
+Pennsylvania,2011,Infant,B,13,Northeast
+Pennsylvania,2012,Infant,B,21,Northeast
+Pennsylvania,2012,Other,B,1,Northeast
+Pennsylvania,2013,Infant,A,1,Northeast
+Pennsylvania,2013,Infant,B,18,Northeast
+Pennsylvania,2013,Wound,B,1,Northeast
+Pennsylvania,2014,Infant,B,8,Northeast
+Pennsylvania,2015,Infant,B,21,Northeast
+Pennsylvania,2016,Infant,B,16,Northeast
+Pennsylvania,2017,Infant,B,11,Northeast
+Rhode Island,1974,Foodborne,B,1,Northeast
+Rhode Island,2008,Infant,B,1,Northeast
+Rhode Island,2015,Infant,B,1,Northeast
+Rhode Island,2016,Infant,B,1,Northeast
+South Carolina,1997,Other,F,1,South
+South Carolina,1999,Infant,B,1,South
+South Carolina,2000,Infant,A,1,South
+South Carolina,2002,Foodborne,B,1,South
+South Carolina,2004,Infant,A,1,South
+South Carolina,2007,Infant,A,1,South
+South Carolina,2008,Infant,B,1,South
+South Dakota,1936,Foodborne,A,4,Midwest
+South Dakota,1946,Foodborne,Unknown,2,Midwest
+South Dakota,1992,Infant,A,1,Midwest
+South Dakota,1999,Infant,A,1,Midwest
+South Dakota,2000,Infant,A,1,Midwest
+Tennessee,1920,Foodborne,A,7,South
+Tennessee,1932,Foodborne,Unknown,9,South
+Tennessee,1933,Foodborne,Unknown,3,South
+Tennessee,1937,Foodborne,Unknown,1,South
+Tennessee,1939,Foodborne,B,2,South
+Tennessee,1940,Foodborne,B,2,South
+Tennessee,1944,Foodborne,Unknown,3,South
+Tennessee,1945,Foodborne,Unknown,2,South
+Tennessee,1946,Foodborne,Unknown,1,South
+Tennessee,1947,Foodborne,Unknown,1,South
+Tennessee,1948,Foodborne,Unknown,1,South
+Tennessee,1949,Foodborne,Unknown,1,South
+Tennessee,1950,Foodborne,Unknown,4,South
+Tennessee,1957,Foodborne,Unknown,1,South
+Tennessee,1962,Foodborne,Unknown,3,South
+Tennessee,1963,Foodborne,E,12,South
+Tennessee,1968,Foodborne,Unknown,1,South
+Tennessee,1976,Foodborne,B,1,South
+Tennessee,1976,Infant,B,1,South
+Tennessee,1977,Foodborne,A,1,South
+Tennessee,1978,Other,A,1,South
+Tennessee,1983,Infant,B,3,South
+Tennessee,1984,Infant,B,2,South
+Tennessee,1985,Wound,B,1,South
+Tennessee,1986,Foodborne,B,2,South
+Tennessee,1986,Infant,A,1,South
+Tennessee,1986,Infant,B,2,South
+Tennessee,1987,Foodborne,A,1,South
+Tennessee,1987,Infant,B,1,South
+Tennessee,1989,Foodborne,B,1,South
+Tennessee,1989,Infant,B,3,South
+Tennessee,1990,Foodborne,B,1,South
+Tennessee,1990,Infant,B,1,South
+Tennessee,1991,Infant,B,2,South
+Tennessee,1992,Infant,A,1,South
+Tennessee,1993,Infant,A,1,South
+Tennessee,1993,Infant,B,2,South
+Tennessee,1994,Infant,B,3,South
+Tennessee,1995,Infant,B,2,South
+Tennessee,1996,Foodborne,A,1,South
+Tennessee,1998,Infant,Unknown,1,South
+Tennessee,1999,Infant,A,1,South
+Tennessee,1999,Infant,B,2,South
+Tennessee,2000,Infant,B,2,South
+Tennessee,2001,Infant,A,1,South
+Tennessee,2001,Infant,B,3,South
+Tennessee,2002,Infant,A,1,South
+Tennessee,2002,Infant,B,2,South
+Tennessee,2003,Infant,B,2,South
+Tennessee,2004,Infant,B,1,South
+Tennessee,2006,Infant,B,1,South
+Tennessee,2007,Foodborne,A,1,South
+Tennessee,2007,Infant,B,1,South
+Tennessee,2008,Infant,B,1,South
+Tennessee,2009,Infant,B,1,South
+Tennessee,2011,Infant,B,3,South
+Tennessee,2012,Infant,B,1,South
+Tennessee,2013,Infant,B,2,South
+Tennessee,2014,Infant,B,1,South
+Tennessee,2015,Infant,B,3,South
+Tennessee,2016,Infant,B,2,South
+Tennessee,2017,Infant,B,5,South
+Texas,1921,Foodborne,Unknown,6,South
+Texas,1932,Foodborne,Unknown,2,South
+Texas,1952,Foodborne,Unknown,1,South
+Texas,1969,Foodborne,A,1,South
+Texas,1974,Foodborne,B,1,South
+Texas,1976,Infant,B,1,South
+Texas,1977,Foodborne,A,1,South
+Texas,1978,Foodborne,A,3,South
+Texas,1978,Foodborne,B,2,South
+Texas,1978,Other,A,1,South
+Texas,1979,Infant,B,1,South
+Texas,1979,Wound,A,1,South
+Texas,1981,Infant,A,2,South
+Texas,1981,Infant,B,1,South
+Texas,1982,Infant,B,1,South
+Texas,1983,Infant,A,2,South
+Texas,1983,Other,Unknown,1,South
+Texas,1984,Infant,A,3,South
+Texas,1984,Infant,B,3,South
+Texas,1984,Other,A,1,South
+Texas,1984,Other,B,1,South
+Texas,1984,Wound,A,1,South
+Texas,1985,Infant,A,4,South
+Texas,1986,Foodborne,B,1,South
+Texas,1986,Infant,A,2,South
+Texas,1986,Infant,B,2,South
+Texas,1987,Infant,A,1,South
+Texas,1987,Infant,B,3,South
+Texas,1988,Foodborne,A,1,South
+Texas,1988,Infant,A,1,South
+Texas,1988,Infant,B,2,South
+Texas,1989,Infant,B,4,South
+Texas,1990,Infant,A,3,South
+Texas,1990,Infant,B,4,South
+Texas,1991,Infant,A,1,South
+Texas,1991,Infant,B,3,South
+Texas,1992,Infant,A,3,South
+Texas,1992,Infant,B,1,South
+Texas,1993,Infant,A,1,South
+Texas,1993,Infant,B,1,South
+Texas,1994,Foodborne,A,17,South
+Texas,1994,Infant,A,1,South
+Texas,1994,Infant,B,2,South
+Texas,1995,Infant,A,3,South
+Texas,1996,Foodborne,A,2,South
+Texas,1996,Infant,A,3,South
+Texas,1996,Infant,B,4,South
+Texas,1997,Foodborne,A,1,South
+Texas,1997,Infant,A,2,South
+Texas,1997,Infant,B,7,South
+Texas,1998,Infant,A,2,South
+Texas,1998,Infant,AB,1,South
+Texas,1998,Infant,B,1,South
+Texas,1998,Infant,F,1,South
+Texas,1998,Infant,Unknown,1,South
+Texas,1999,Infant,A,1,South
+Texas,1999,Infant,B,3,South
+Texas,2000,Infant,A,4,South
+Texas,2000,Infant,B,4,South
+Texas,2001,Foodborne,A,16,South
+Texas,2001,Infant,A,3,South
+Texas,2001,Infant,B,1,South
+Texas,2002,Foodborne,A,1,South
+Texas,2002,Other,F,1,South
+Texas,2003,Infant,B,1,South
+Texas,2003,Other,A,1,South
+Texas,2003,Other,B,1,South
+Texas,2004,Infant,A,3,South
+Texas,2004,Wound,A,1,South
+Texas,2005,Infant,A,1,South
+Texas,2005,Other,A,1,South
+Texas,2006,Infant,A,3,South
+Texas,2006,Infant,B,2,South
+Texas,2006,Wound,A,1,South
+Texas,2007,Foodborne,A,3,South
+Texas,2007,Infant,A,2,South
+Texas,2007,Infant,B,2,South
+Texas,2008,Infant,A,4,South
+Texas,2008,Infant,B,3,South
+Texas,2008,Infant,Bf,1,South
+Texas,2008,Wound,A,1,South
+Texas,2009,Infant,A,1,South
+Texas,2009,Infant,B,3,South
+Texas,2010,Infant,A,5,South
+Texas,2010,Infant,B,3,South
+Texas,2011,Infant,A,4,South
+Texas,2011,Wound,A,1,South
+Texas,2012,Infant,A,1,South
+Texas,2013,Infant,A,5,South
+Texas,2013,Infant,B,2,South
+Texas,2013,Wound,A,3,South
+Texas,2014,Infant,A,1,South
+Texas,2014,Infant,B,5,South
+Texas,2014,Infant,Bf,1,South
+Texas,2014,Wound,A,1,South
+Texas,2015,Infant,A,3,South
+Texas,2015,Infant,B,2,South
+Texas,2015,Infant,Bf,2,South
+Texas,2015,Wound,A,1,South
+Texas,2016,Foodborne,B,1,South
+Texas,2016,Infant,A,3,South
+Texas,2016,Infant,B,3,South
+Texas,2016,Infant,Bf,1,South
+Texas,2016,Wound,A/B/E,1,South
+Texas,2017,Infant,A,2,South
+Texas,2017,Infant,B,7,South
+Utah,1916,Foodborne,Unknown,1,West
+Utah,1938,Foodborne,A,1,West
+Utah,1945,Foodborne,A,7,West
+Utah,1946,Foodborne,A,2,West
+Utah,1947,Foodborne,Unknown,3,West
+Utah,1973,Foodborne,A,4,West
+Utah,1974,Foodborne,A,1,West
+Utah,1977,Infant,A,3,West
+Utah,1977,Infant,B,1,West
+Utah,1978,Infant,A,8,West
+Utah,1978,Infant,Unknown,1,West
+Utah,1979,Infant,A,2,West
+Utah,1979,Infant,B,1,West
+Utah,1980,Infant,A,4,West
+Utah,1981,Foodborne,A,1,West
+Utah,1981,Infant,A,1,West
+Utah,1982,Foodborne,A,1,West
+Utah,1982,Infant,A,4,West
+Utah,1982,Infant,B,1,West
+Utah,1983,Foodborne,A,1,West
+Utah,1983,Infant,A,2,West
+Utah,1984,Infant,A,2,West
+Utah,1985,Foodborne,A,1,West
+Utah,1986,Foodborne,A,1,West
+Utah,1986,Infant,A,7,West
+Utah,1987,Infant,A,3,West
+Utah,1988,Foodborne,A,1,West
+Utah,1988,Infant,A,2,West
+Utah,1989,Infant,A,1,West
+Utah,1990,Infant,A,1,West
+Utah,1991,Infant,A,1,West
+Utah,1992,Infant,A,3,West
+Utah,1993,Foodborne,B,1,West
+Utah,1994,Infant,A,3,West
+Utah,1995,Foodborne,F,1,West
+Utah,1995,Infant,A,1,West
+Utah,1995,Infant,B,1,West
+Utah,1996,Infant,A,2,West
+Utah,1997,Infant,A,2,West
+Utah,1998,Infant,A,1,West
+Utah,1999,Infant,A,3,West
+Utah,2000,Infant,A,6,West
+Utah,2000,Infant,B,2,West
+Utah,2001,Infant,A,3,West
+Utah,2001,Infant,B,1,West
+Utah,2002,Infant,A,3,West
+Utah,2003,Foodborne,A,2,West
+Utah,2003,Infant,A,6,West
+Utah,2004,Infant,A,2,West
+Utah,2005,Infant,A,3,West
+Utah,2006,Infant,A,3,West
+Utah,2007,Infant,A,2,West
+Utah,2008,Infant,A,6,West
+Utah,2009,Infant,A,2,West
+Utah,2010,Infant,A,1,West
+Utah,2011,Foodborne,A,8,West
+Utah,2011,Infant,A,3,West
+Utah,2011,Infant,B,1,West
+Utah,2012,Infant,A,7,West
+Utah,2012,Infant,B,2,West
+Utah,2013,Infant,A,2,West
+Utah,2014,Infant,A,5,West
+Utah,2014,Infant,B,1,West
+Utah,2015,Foodborne,A,2,West
+Utah,2015,Infant,A,5,West
+Utah,2016,Infant,A,5,West
+Utah,2016,Wound,A,1,West
+Utah,2017,Infant,A,1,West
+Virginia,1933,Foodborne,Unknown,2,South
+Virginia,1941,Foodborne,B,5,South
+Virginia,1950,Foodborne,Unknown,1,South
+Virginia,1976,Foodborne,B,1,South
+Virginia,1978,Foodborne,B,1,South
+Virginia,1983,Infant,B,1,South
+Virginia,1984,Infant,B,1,South
+Virginia,1986,Infant,B,1,South
+Virginia,1988,Infant,A,1,South
+Virginia,1989,Infant,B,1,South
+Virginia,1989,Infant,Unknown,1,South
+Virginia,1991,Infant,Unknown,1,South
+Virginia,1994,Infant,B,1,South
+Virginia,1994,Infant,Unknown,1,South
+Virginia,1995,Foodborne,F,1,South
+Virginia,1995,Infant,A,1,South
+Virginia,1995,Infant,B,3,South
+Virginia,1996,Infant,B,3,South
+Virginia,1998,Foodborne,A,1,South
+Virginia,1999,Infant,B,4,South
+Virginia,2000,Infant,B,2,South
+Virginia,2001,Infant,B,4,South
+Virginia,2002,Foodborne,A,1,South
+Virginia,2002,Infant,B,3,South
+Virginia,2003,Infant,B,1,South
+Virginia,2004,Infant,A,1,South
+Virginia,2004,Infant,B,3,South
+Virginia,2005,Infant,B,1,South
+Virginia,2007,Foodborne,A,1,South
+Virginia,2008,Infant,B,2,South
+Virginia,2009,Infant,B,3,South
+Virginia,2010,Infant,B,1,South
+Virginia,2011,Infant,A,1,South
+Virginia,2011,Infant,B,1,South
+Virginia,2012,Infant,A,1,South
+Virginia,2012,Infant,F,1,South
+Virginia,2013,Infant,B,3,South
+Virginia,2014,Infant,B,1,South
+Virginia,2015,Infant,B,3,South
+Virginia,2016,Infant,A,1,South
+Virginia,2016,Infant,B,4,South
+Virginia,2017,Infant,B,3,South
+Vermont,1989,Infant,A,1,Northeast
+Vermont,2008,Infant,B,1,Northeast
+Vermont,2014,Infant,A,1,Northeast
+Washington,1910,Foodborne,Unknown,6,West
+Washington,1913,Foodborne,Unknown,2,West
+Washington,1914,Foodborne,Unknown,2,West
+Washington,1916,Foodborne,Unknown,1,West
+Washington,1917,Foodborne,A,3,West
+Washington,1917,Foodborne,Unknown,1,West
+Washington,1918,Foodborne,Unknown,1,West
+Washington,1919,Foodborne,Unknown,7,West
+Washington,1920,Foodborne,Unknown,4,West
+Washington,1921,Foodborne,A,4,West
+Washington,1921,Foodborne,Unknown,4,West
+Washington,1922,Foodborne,A,4,West
+Washington,1922,Foodborne,Unknown,16,West
+Washington,1924,Foodborne,A,2,West
+Washington,1925,Foodborne,A,4,West
+Washington,1926,Foodborne,A,1,West
+Washington,1928,Foodborne,Unknown,2,West
+Washington,1931,Foodborne,Unknown,4,West
+Washington,1932,Foodborne,A,2,West
+Washington,1932,Foodborne,Unknown,1,West
+Washington,1933,Foodborne,Unknown,5,West
+Washington,1934,Foodborne,Unknown,1,West
+Washington,1935,Foodborne,Unknown,5,West
+Washington,1938,Foodborne,Unknown,9,West
+Washington,1939,Foodborne,B,16,West
+Washington,1940,Foodborne,Unknown,4,West
+Washington,1942,Foodborne,Unknown,1,West
+Washington,1943,Foodborne,Unknown,2,West
+Washington,1944,Foodborne,A,8,West
+Washington,1944,Foodborne,Unknown,2,West
+Washington,1946,Foodborne,Unknown,1,West
+Washington,1947,Foodborne,A,3,West
+Washington,1947,Foodborne,Unknown,7,West
+Washington,1951,Foodborne,A,3,West
+Washington,1952,Foodborne,Unknown,2,West
+Washington,1953,Foodborne,Unknown,1,West
+Washington,1954,Foodborne,Unknown,2,West
+Washington,1957,Foodborne,Unknown,5,West
+Washington,1958,Foodborne,Unknown,1,West
+Washington,1959,Foodborne,Unknown,2,West
+Washington,1961,Foodborne,E,4,West
+Washington,1961,Foodborne,Unknown,4,West
+Washington,1964,Foodborne,Unknown,4,West
+Washington,1965,Foodborne,Unknown,6,West
+Washington,1969,Foodborne,Unknown,1,West
+Washington,1971,Foodborne,Unknown,2,West
+Washington,1973,Foodborne,A,1,West
+Washington,1973,Foodborne,E,5,West
+Washington,1974,Foodborne,A,2,West
+Washington,1975,Foodborne,A,3,West
+Washington,1976,Foodborne,A,3,West
+Washington,1976,Foodborne,Unknown,1,West
+Washington,1976,Wound,A,1,West
+Washington,1977,Infant,A,2,West
+Washington,1978,Infant,A,1,West
+Washington,1979,Foodborne,A,2,West
+Washington,1979,Infant,A,2,West
+Washington,1979,Wound,A,1,West
+Washington,1980,Foodborne,A,2,West
+Washington,1980,Infant,A,2,West
+Washington,1980,Infant,B,1,West
+Washington,1980,Wound,A,1,West
+Washington,1982,Foodborne,A,3,West
+Washington,1982,Foodborne,B,1,West
+Washington,1982,Infant,A,1,West
+Washington,1983,Foodborne,A,2,West
+Washington,1983,Infant,A,6,West
+Washington,1984,Foodborne,A,3,West
+Washington,1984,Infant,A,2,West
+Washington,1984,Infant,B,5,West
+Washington,1985,Foodborne,A,4,West
+Washington,1985,Foodborne,B,2,West
+Washington,1985,Infant,A,4,West
+Washington,1986,Foodborne,A,2,West
+Washington,1986,Infant,A,4,West
+Washington,1986,Infant,Unknown,1,West
+Washington,1987,Foodborne,A,1,West
+Washington,1987,Infant,A,2,West
+Washington,1987,Wound,A,1,West
+Washington,1988,Foodborne,A,3,West
+Washington,1988,Infant,A,3,West
+Washington,1989,Foodborne,A,10,West
+Washington,1990,Foodborne,A,1,West
+Washington,1991,Infant,A,3,West
+Washington,1992,Infant,A,2,West
+Washington,1992,Infant,F,1,West
+Washington,1993,Foodborne,A,4,West
+Washington,1993,Infant,A,1,West
+Washington,1994,Foodborne,A,2,West
+Washington,1994,Infant,A,2,West
+Washington,1995,Foodborne,A,4,West
+Washington,1995,Infant,A,2,West
+Washington,1996,Foodborne,A,2,West
+Washington,1996,Wound,A,2,West
+Washington,1997,Infant,A,1,West
+Washington,1997,Wound,A,2,West
+Washington,1998,Foodborne,A,2,West
+Washington,1998,Infant,A,4,West
+Washington,1999,Foodborne,A,2,West
+Washington,1999,Infant,A,4,West
+Washington,1999,Wound,A,1,West
+Washington,2000,Foodborne,A,1,West
+Washington,2000,Infant,A,4,West
+Washington,2001,Foodborne,A,1,West
+Washington,2001,Infant,A,5,West
+Washington,2001,Infant,B,1,West
+Washington,2002,Infant,A,1,West
+Washington,2002,Other,A,2,West
+Washington,2002,Wound,A,4,West
+Washington,2003,Foodborne,A,1,West
+Washington,2003,Infant,A,2,West
+Washington,2003,Infant,B,1,West
+Washington,2003,Wound,A,7,West
+Washington,2004,Infant,A,1,West
+Washington,2004,Infant,B,1,West
+Washington,2004,Other,F,1,West
+Washington,2004,Wound,A,5,West
+Washington,2005,Infant,A,2,West
+Washington,2005,Wound,A,4,West
+Washington,2006,Infant,A,9,West
+Washington,2006,Wound,B,1,West
+Washington,2007,Foodborne,A,1,West
+Washington,2007,Infant,A,1,West
+Washington,2007,Wound,A,2,West
+Washington,2008,Infant,A,1,West
+Washington,2008,Wound,A,2,West
+Washington,2009,Foodborne,A,4,West
+Washington,2009,Infant,A,2,West
+Washington,2009,Wound,A,4,West
+Washington,2010,Infant,A,2,West
+Washington,2010,Infant,B,1,West
+Washington,2010,Wound,A,1,West
+Washington,2011,Infant,A,3,West
+Washington,2011,Wound,A,2,West
+Washington,2012,Infant,A,4,West
+Washington,2012,Wound,A,1,West
+Washington,2013,Infant,A,4,West
+Washington,2014,Infant,A,3,West
+Washington,2015,Infant,A,6,West
+Washington,2016,Foodborne,A,2,West
+Washington,2016,Infant,A,1,West
+Washington,2017,Infant,A,5,West
+Washington,2017,Wound,A,1,West
+Wisconsin,1919,Foodborne,Unknown,3,Midwest
+Wisconsin,1929,Foodborne,Unknown,2,Midwest
+Wisconsin,1939,Foodborne,Unknown,1,Midwest
+Wisconsin,1976,Foodborne,A,1,Midwest
+Wisconsin,1977,Infant,B,1,Midwest
+Wisconsin,1978,Foodborne,B,1,Midwest
+Wisconsin,1980,Foodborne,A,2,Midwest
+Wisconsin,1981,Infant,A,1,Midwest
+Wisconsin,1982,Foodborne,A,1,Midwest
+Wisconsin,1984,Foodborne,Unknown,1,Midwest
+Wisconsin,1987,Foodborne,A,1,Midwest
+Wisconsin,1989,Infant,F,1,Midwest
+Wisconsin,1991,Foodborne,B,1,Midwest
+Wisconsin,1995,Infant,B,1,Midwest
+Wisconsin,1997,Infant,A,2,Midwest
+Wisconsin,1997,Infant,B,1,Midwest
+Wisconsin,1998,Infant,B,1,Midwest
+Wisconsin,1999,Infant,A,1,Midwest
+Wisconsin,2000,Other,A,1,Midwest
+Wisconsin,2007,Foodborne,A,1,Midwest
+Wisconsin,2009,Infant,B,1,Midwest
+Wisconsin,2014,Infant,B,1,Midwest
+West Virginia,1940,Foodborne,Unknown,3,South
+West Virginia,1963,Foodborne,B,1,South
+West Virginia,1972,Wound,Unknown,1,South
+West Virginia,1973,Foodborne,B,6,South
+West Virginia,1981,Infant,B,2,South
+West Virginia,1982,Foodborne,B,1,South
+West Virginia,1984,Infant,B,1,South
+West Virginia,1991,Infant,B,1,South
+West Virginia,1997,Infant,A,1,South
+West Virginia,1997,Infant,B,1,South
+West Virginia,2001,Infant,B,1,South
+West Virginia,2004,Infant,B,2,South
+West Virginia,2006,Infant,B,1,South
+West Virginia,2007,Infant,A,1,South
+West Virginia,2008,Foodborne,A,1,South
+West Virginia,2008,Infant,B,1,South
+West Virginia,2010,Infant,A,1,South
+West Virginia,2010,Infant,B,2,South
+West Virginia,2013,Infant,B,1,South
+West Virginia,2015,Infant,B,1,South
+West Virginia,2016,Infant,B,2,South
+Wyoming,1924,Foodborne,A,7,West
+Wyoming,1925,Foodborne,B,4,West
+Wyoming,1926,Foodborne,Unknown,3,West
+Wyoming,1929,Foodborne,A,6,West
+Wyoming,1936,Foodborne,A,3,West
+Wyoming,1936,Foodborne,Unknown,5,West
+Wyoming,1975,Foodborne,A,1,West
+Wyoming,1982,Foodborne,A,1,West
+Wyoming,1984,Infant,A,1,West
+Wyoming,1986,Wound,Unknown,1,West
+Wyoming,1990,Foodborne,A,1,West
+Wyoming,2006,Infant,A,1,West
+Wyoming,2008,Infant,A,1,West
+Wyoming,2012,Infant,A,2,West
+Wyoming,2015,Infant,A,1,West
+Wyoming,2016,Infant,A,1,West
