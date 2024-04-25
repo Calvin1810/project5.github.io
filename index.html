@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>National Population Migration</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-size: 18px; /* Default text size */
+            line-height: 1.6; /* Increase line spacing */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .main-container {
+            padding: 40px; /* Adjust padding as needed */
+            max-width: 1200px; /* Maximum width of the content */
+            width: 100%; /* Make it responsive */
+            box-sizing: border-box;
+            border: 10in;
+        }
+        .flex-container {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: flex-start;
+        }
+        .content, .iframe-container {
+            flex: 1; /* Adjust the width as necessary */
+        }
+        iframe {
+            width: 100%;
+            height: 1000px; /* Adjust the height as necessary */
+            border: none;
+        }
+        h1 {
+            font-size: 40px;
+            text-align: center;
+            line-height: 1.4; /* Custom line spacing for h1 */
+            font-family:'Trebuchet MS';
+        }
+        h2 {
+            font-size: 28px;
+            text-align: center;
+            line-height: 1.4; /* Custom line spacing for h2 */
+            font-family:'Trebuchet MS';
+        }
+        h3 {
+            font-size: 24px;
+            text-align: center;
+            line-height: 0.1; /* Custom line spacing for h3 */
+            font-family:'Trebuchet MS';
+        }
+        h4, p {
+            font-size: 20px;
+            text-align: left;
+            line-height: 2; /* Increased line spacing */
+            font-family:'Trebuchet MS';
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            width: 100%;
+        }
+    </style>
+</head>
+<body style="background-color:rgb(252, 239, 219);">
+    <div class="main-container">
+      <h1>Population Change in the United States (1910-2020)</h1>
+                <h3>by Calvin Lu</h3>
+                <br>
+                <center><h3>Trivariate data visualization on population across the United States.<h3></center>
+                <br>
+        <div class="flex-container">
+            <div class="content">
+                <p>
+                  The project will illustrate changes in population of states across the United States from 1910 to 2020. Population change influences various 
+              socio-economic factors and public policies. Since 1910, the U.S. has undergone significant shifts in 
+              population distribution due to factors such as urbanization and economic expansion. By illustrating population changes over time, the visualizations will
+              display patterns in population fluctuations for states across the U.S. This project will generate 
+              a deeper understanding of population shifts and spark new inquiries for implications concerning economic prosperity and political representation. 
+                </p>
+              <br>
+              <p><b>I hypothesize that the highest population change will shift from the West during the first half of the 20th century to the South until the present.</b></p>
+              <br>
+                <p>
+                  We will be analyzing the evolution of population change across the United States.
+              The data driving this graph is sourced from the <a href="https://www.census.gov/en.html">United States Census Bureau</a> data centers on 
+              <a href="https://www.census.gov/data/tables/2000/dec/2000-resident-population.html">Resident Population Tables</a>.
+              The maps to the right utilizes a slider to display the state percentage of national population and percent change in state population during that decade between 1910-2020.
+                </p>
+            </div>
+            <div class="iframe-container">
+              <iframe width="100%" height="1783" frameborder="0"
+              src="https://observablehq.com/embed/22ce4d56d8a6a9f5@390?cells=viewof+radius%2Cviewof+year%2Cslider_pop_map%2Cslider_map&api_key=49c5c69809cdfea23d83de7f08fccf36d68d3b33"></iframe>
+            </div>
+        </div>
+        <div class="footer">
+            <h2>One Corps, Our Corps!</h2>
+        </div>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
